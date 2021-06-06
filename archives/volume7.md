@@ -1,6 +1,6 @@
 ## Volume 7 (2021)
 
-## I Don't Care if I Never Get Back: Optimism and Ascent in "Take Me Out to the Ballgame"
+## I Don't Care if I Never Get Back: Optimism and Ascent in "Take Me Out to the Ball Game"
 Michael Buchler (Florida State University)
 
 Volume 7.4 (June 2021)
