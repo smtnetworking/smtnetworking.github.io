@@ -17,6 +17,8 @@ Michael Buchler (Florida State University)
 
 *The chorus of “Take Me Out To The Ball Game” (Von Tilzer and Norworth, 1908) is familiar to anyone who has attended baseball games in North America. However, relatively few people are aware that there is an introductory verse that poetically and contrapuntally motivates and anticipates the well-known chorus. This video article demonstrates some relationships between the verse and chorus and also challenges an earlier analysis that views this song through the lens of common-practice melodic norms.*
 
+*Keywords: baseball, Tin Pan Alley, Schenkerian analysis, ascent, Broadway songs, narrative*
+
 <!--DOI: [http://doi.org/10.30535/smtv.7.4](http://doi.org/10.30535/smtv.7.4)-->
 <p>&nbsp;</p>
 <hr>
