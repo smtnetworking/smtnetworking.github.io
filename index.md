@@ -6,7 +6,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music
 
 # Latest Issue: 7.4 (June 2021)
 
-## I Don't Care if I Never Get Back: Optimism and Ascent in "Take Me Out to the Ballgame"
+## I Don't Care if I Never Get Back: Optimism and Ascent in "Take Me Out to the Ball Game"
 Michael Buchler (Florida State University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
