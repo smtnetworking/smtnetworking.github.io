@@ -1,5 +1,23 @@
 ## Volume 7 (2021)
 
+## I Don't Care if I Never Get Back: Optimism and Ascent in "Take Me Out to the Ballgame"
+Michael Buchler (Florida State University)
+
+Volume 7.4 (June 2021)
+
+<div class="intrinsic-container intrinsic-container-16x9">
+<center><iframe src="https://player.vimeo.com/video/428807269?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+</div><p>&nbsp;</p>
+
+*[Link to notes](http://www.smt-v.org/bibliographies/7_4_Buchler.pdf)*
+
+*The chorus of “Take Me Out To The Ball Game” (Von Tilzer and Norworth, 1908) is familiar to anyone who has attended baseball games in North America. However, relatively few people are aware that there is an introductory verse that poetically and contrapuntally motivates and anticipates the well-known chorus. This video article demonstrates some relationships between the verse and chorus and also challenges an earlier analysis that views this song through the lens of common-practice melodic norms.*
+
+<!--DOI: [http://doi.org/10.30535/smtv.7.4](http://doi.org/10.30535/smtv.7.4)-->
+<p>&nbsp;</p>
+<hr>
+
+
 ## A Film Scene for Schoenberg’s *Begleitungsmusik zu einer Lichtspielscene*
 Orit Hilewicz (Eastman School of Music) and Stephen Sewell (Brooklyn, NY)
 
