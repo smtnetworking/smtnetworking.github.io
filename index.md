@@ -19,7 +19,7 @@ Michael Buchler (Florida State University)
 
 *Keywords: baseball, Tin Pan Alley, Schenkerian analysis, ascent, Broadway songs, narrative*
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.4](http://doi.org/10.30535/smtv.7.4)-->
+DOI: [http://doi.org/10.30535/smtv.7.4](http://doi.org/10.30535/smtv.7.4)
 <p>&nbsp;</p>
 <hr>
 
