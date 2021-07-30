@@ -7,6 +7,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](7_2_Leaman.pdf)
 - [Orit Hiliewicz and Stephen Sewell, "A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene"](7_3_Hilewicz_and_Sewell.pdf)
 - [Michael Buchler, "I Don't Care if I Never Get Back: Optimism and Ascent in 'Take Me Out to the Ballgame'"](7_4_Buchler.pdf)
+- [Adem Merter Birson, "Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies"](7_5_Birson.pdf)
 
 ### Volume 6 (2020)
 - [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](6_1_Oinas.pdf)
