@@ -16,7 +16,7 @@ with guest Ahmet Erdoğdular (Makam New York, Inc.)
 
 *[Link to notes](http://www.smt-v.org/bibliographies/7_5_Birson.pdf)*
 
-*n Turkish classical music, characteristic melodies known as “çeşni-s” form essential building blocks in makam, the modal system of the Middle East. Since around the beginning of the Turkish Republic (1923), Turkish musicologists adapted the makam system for Western staff notation and devised an approach to music theory based on scales. This modern approach, while currently widespread, has its limitations; in particular, the makam scales do not reflect the characteristic melodies that are often so important to the idiomatic expression of makam. For this reason, one needs extended interaction with experienced musicians in order to learn how to interpret the scores, via an oral form of pedagogy traditionally known as “meşk.”*
+*In Turkish classical music, characteristic melodies known as “çeşni-s” form essential building blocks in makam, the modal system of the Middle East. Since around the beginning of the Turkish Republic (1923), Turkish musicologists adapted the makam system for Western staff notation and devised an approach to music theory based on scales. This modern approach, while currently widespread, has its limitations; in particular, the makam scales do not reflect the characteristic melodies that are often so important to the idiomatic expression of makam. For this reason, one needs extended interaction with experienced musicians in order to learn how to interpret the scores, via an oral form of pedagogy traditionally known as “meşk.”*
 
 *Keywords: makam, modes, Turkish music, characteristic melody*
 
