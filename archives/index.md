@@ -1,5 +1,17 @@
 # SMT-V Archives
 
+### Volume 8 (2022)
+
+_8.1–8.2: Editor: L. Poundie Burstein; Associate Editor: Seth Monahan_
+_8.3–8.6: Editor: Megan Long; Associate Editor: Jonathan De Souza_
+ 
+- 8.1: Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody” (forthcoming)
+- 8.2: Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential” (forthcoming)
+- 8.3:  Nicholas Shea, “The Feel of the Guitar in Popular Music Performance” (forthcoming)
+- 8.4: Stanley V. Kleppinger, “Appropriating Copland's Fanfare” (forthcoming)
+- 8.5: TBA
+- 8.6: TBA
+
 ### Volume 7 (2021)
 _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
 - [7.1: Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](volume7.md#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls)
