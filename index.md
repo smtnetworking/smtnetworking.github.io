@@ -20,7 +20,7 @@ with guest Ahmet Erdoğdular (Makam New York, Inc.)
 
 *Keywords: makam, modes, Turkish music, characteristic melody*
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.5)-->
+DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.5)
 <p>&nbsp;</p>
 <hr>
 
