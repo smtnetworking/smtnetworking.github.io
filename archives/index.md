@@ -20,7 +20,7 @@ _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
 - [7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene”](volume7.md#a-film-scene-for-schoenbergs-begleitungsmusik-zu-einer-lichtspielscene) 
 - [7.4: Michael Buchler, “I Don’t Care if I Never Get Back: Optimism and Ascent in ‘Take Me Out to The Ball Game’”](volume7.md#i-dont-care-if-i-never-get-back-optimism-and-ascent-in-take-me-out-to-the-ball-game)
 - [7.5: Adem Merter Birson, “Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies"](volume7.md#understanding-turkish-classical-makam-identifying-modes-through-characteristic-melodies)
-- 7.6: Megan Lavengood, "Oops!...I Did It Again: The Complement Chorus in Britney Spears, the Backstreet Boys, and \*N'Sync" (forthcoming)
+- 7.6: Megan Lavengood, "Oops!...I Did It Again: The Complement Chorus in Britney Spears, the Backstreet Boys, and \*NSYNC" (forthcoming)
 
 ### Volume 6 (2020)
 _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
