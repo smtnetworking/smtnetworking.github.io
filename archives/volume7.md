@@ -16,7 +16,7 @@ Volume 7.5 (July 2021)
 
 *Keywords: makam, modes, Turkish music, characteristic melody*
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.5)-->
+DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.5)
 <p>&nbsp;</p>
 <hr>
 
