@@ -4,23 +4,23 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music
 
 <hr>
 
-# Latest Issue: 7.5 (July 2021)
+# Latest Issue: 7.6 (October 2021)
 
-## Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies
-Adem Merter Birson (Hofstra University)
-with guest Ahmet Erdoğdular (Makam New York, Inc.)
+## “Oops! I Did It Again!" The Complement Chorus in Britney Spears, The Backstreet Boys, and <span>&ast;</span>NSYNC
+Megan Lavengood (George Mason University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/485776021?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/559017321?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 *[Link to notes](http://www.smt-v.org/bibliographies/7_5_Birson.pdf)*
 
-*In Turkish classical music, characteristic melodies known as “çeşni-s” form essential building blocks in makam, the modal system of the Middle East. Since around the beginning of the Turkish Republic (1923), Turkish musicologists adapted the makam system for Western staff notation and devised an approach to music theory based on scales. This modern approach, while currently widespread, has its limitations; in particular, the makam scales do not reflect the characteristic melodies that are often so important to the idiomatic expression of makam. For this reason, one needs extended interaction with experienced musicians in order to learn how to interpret the scores, via an oral form of pedagogy traditionally known as “meşk.”*
+*A distinctive feature of a several turn-of-the-millennium singles performed by the Backstreet Boys, NSYNC, and Britney Spears is the presence of the “complement chorus,” a special, third appearance of chorus that appears after the bridge. The complement chorus brandishes a new melodic line with a distinct rhythmic profile, allowing for a high-energy climax rather than a mere restatement of the chorus, as it imbues the now-familiar chorus melody with new vigor. Complement choruses seem to have been a trick used exclusively by the producer Max Martin and his associates during the years 1998–2000, making them a distinctly Y2K phenomenon.*
 
-*Keywords: makam, modes, Turkish music, characteristic melody*
+*Keywords: pop music, post-millennial pop music, Max Martin, boy bands, musical form*
 
-DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.5)
+
+<!--DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.6)-->
 <p>&nbsp;</p>
 <hr>
 
