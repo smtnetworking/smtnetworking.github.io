@@ -1,6 +1,6 @@
 ## Volume 7 (2021)
 
-## “Oops! I Did It Again!" The Complement Chorus in Britney Spears, The Backstreet Boys, and <span>&ast;</span>NSYNC
+## “Oops! I Did It Again!" The Complement Chorus in Britney Spears, The Backstreet Boys, and <span>&#42;</span>NSYNC
 Megan Lavengood (George Mason University)
 
 Latest Issue: 7.6 (October 2021)
