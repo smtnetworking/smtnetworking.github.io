@@ -8,7 +8,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Orit Hiliewicz and Stephen Sewell, "A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene"](7_3_Hilewicz_and_Sewell.pdf)
 - [Michael Buchler, "I Don't Care if I Never Get Back: Optimism and Ascent in 'Take Me Out to the Ballgame'"](7_4_Buchler.pdf)
 - [Adem Merter Birson, "Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies"](7_5_Birson.pdf)
-- [Megan Lavengood, "'Oops!...I Did It Again': The Complement Chorus in Britney Spears, the Backstreet Boys, and \*NSYNC"](7_6_Lavengood.pdf)
+- [Megan Lavengood, "'Oops!...I Did It Again': The Complement Chorus in Britney Spears, the Backstreet Boys, and *NSYNC"](7_6_Lavengood.pdf)
 
 ### Volume 6 (2020)
 - [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](6_1_Oinas.pdf)
