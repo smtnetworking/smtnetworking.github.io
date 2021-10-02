@@ -6,7 +6,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music
 
 # Latest Issue: 7.6 (October 2021)
 
-## “Oops! I Did It Again!" The Complement Chorus in Britney Spears, The Backstreet Boys, and <span>&#42;</span>NSYNC
+## “Oops! I Did It Again!" The Complement Chorus in Britney Spears, The Backstreet Boys, and *NSYNC
 Megan Lavengood (George Mason University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
