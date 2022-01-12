@@ -20,7 +20,7 @@ Megan Lavengood (George Mason University)
 *Keywords: pop music, post-millennial pop music, Max Martin, boy bands, musical form*
 
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.6)-->
+DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.6)
 <p>&nbsp;</p>
 <hr>
 
