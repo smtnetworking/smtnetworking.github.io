@@ -11,11 +11,11 @@ Latest Issue: 7.6 (October 2021)
 
 *[Link to notes](http://www.smt-v.org/bibliographies/7_6_Lavengood.pdf)*
 
-*A distinctive feature of a several turn-of-the-millennium singles performed by the Backstreet Boys, NSYNC, and Britney Spears is the presence of the “complement chorus,” a special, third appearance of chorus that appears after the bridge. The complement chorus brandishes a new melodic line with a distinct rhythmic profile, allowing for a high-energy climax rather than a mere restatement of the chorus, as it imbues the now-familiar chorus melody with new vigor. Complement choruses seem to have been a trick used exclusively by the producer Max Martin and his associates during the years 1998–2000, making them a distinctly Y2K phenomenon.*
+*A distinctive feature of several turn-of-the-millennium singles performed by the Backstreet Boys, NSYNC, and Britney Spears is the presence of the “complement chorus,” a special, third appearance of the chorus that appears after the bridge. The complement chorus brandishes a new melodic line with a distinct rhythmic profile, allowing for a high-energy climax rather than a mere restatement of the chorus, as it imbues the now-familiar chorus melody with new vigor. Complement choruses seem to have been a trick used exclusively by the producer Max Martin and his associates during the years 1998–2000, making them a distinctly Y2K phenomenon.*
 
 *Keywords: pop music, post-millennial pop music, Max Martin, boy bands, musical form*
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.5](http://doi.org/10.30535/smtv.7.6)-->
+DOI: [http://doi.org/10.30535/smtv.7.6](http://doi.org/10.30535/smtv.7.6)
 
 
 ## Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies
