@@ -2,6 +2,15 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 8 (2022)
+- Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody” (forthcoming)
+<!--[Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)-->
+- Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential” (forthcoming)
+- Nicholas Shea, “The Feel of the Guitar in Popular Music Performance” (forthcoming)
+- Stanley V. Kleppinger, “Appropriating Copland's Fanfare” (forthcoming)
+- Eron F.S., "Flat 2 as Hotness in Post-Millenial Pop" (forthcoming)
+- Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)" (forthcoming)
+
 ### Volume 7 (2021)
 - [Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](7_1_Probst.pdf)
 - [Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](7_2_Leaman.pdf)
