@@ -17,7 +17,7 @@ Volume 8.1 (January 2022)
 
 *Kuwata transformed* Abbey Road *into political parody through linguistic sleight of hand. Kuwata chose Japanese lyrics with similar vowels and consonants (as demonstrated by their proximities on the International Phonetic Alphabet) to make them sound like the original English lyrics. By presenting his acrid commentary as a parody of this much-loved album and thus framing it as humorous entertainment, Kuwata was able to publicly criticize Japanese politicians.*
 
-***Keywords**: Parody, cover, Beatles, Abbey Road, Japan, linguistics, rock, Kuwata Keisuke, music and politics*
+***Keywords**: Parody, cover, Beatles,* Abbey Road*, Japan, linguistics, rock, Kuwata Keisuke, music and politics*
 
 <!--DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.1)-->
 <p>&nbsp;</p>
