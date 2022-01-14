@@ -3,8 +3,7 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 8 (2022)
-- Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody” (forthcoming)
-<!--[Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)-->
+- [Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)
 - Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential” (forthcoming)
 - Nicholas Shea, “The Feel of the Guitar in Popular Music Performance” (forthcoming)
 - Stanley V. Kleppinger, “Appropriating Copland's Fanfare” (forthcoming)
