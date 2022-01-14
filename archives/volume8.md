@@ -1,6 +1,6 @@
 ## Volume 8 (2022)
 
-## Abe Road: Kuwata Keisuke's Beatles Parody
+### Abe Road: Kuwata Keisuke's Beatles Parody
 Noriko Manabe (Temple University)
 
 Volume 8.1 (January 2022)
@@ -22,9 +22,6 @@ Volume 8.1 (January 2022)
 <!--DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.1)-->
 <p>&nbsp;</p>
 <hr>
-
-
-
 
 
 ### [Back to Archive](index.md)
