@@ -23,7 +23,7 @@ Noriko Manabe (Temple University)
 
 ***Keywords**: Parody, cover, Beatles,* Abbey Road, *Japan, linguistics, rock, Kuwata Keisuke, music and politics*
 
-<!--DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.1)-->
+DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.1)
 <p>&nbsp;</p>
 <hr>
 
