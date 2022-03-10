@@ -39,7 +39,7 @@ Volume 8.2 (March 2022)
 
 ***Keywords**: canon, stretto, fugue, counterpoint, inversion, Clara Schumann*
 
-DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.2)
+DOI: [http://doi.org/10.30535/smtv.8.2](http://doi.org/10.30535/smtv.8.2)
 <p>&nbsp;</p>
 <hr>
 
