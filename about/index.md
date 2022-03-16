@@ -27,8 +27,9 @@ If you have any questions about the process, please feel free to contact the [_S
 - Kristina Knowles, Arizona State University (2023)
 - Kara Yoo Leaman, Oberlin College and Conservatory (2022)
 - Henry Martin, Rutgers University (2021)
+- Tahirih Motazedian, Vassar College (2024)
 - Carmel Raz, Max Planck Institute (2021)
 - Cara Stroud, Michigan State University (2022)
 - John Turci-Escobar, University of Texas-Austin (2022)
 
-**Webmaster:** William O'Hara (Gettysburg College): [williamevanohara@gmail.com](mailto:williamevanohara@gmail.com)
+**Webmaster:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
