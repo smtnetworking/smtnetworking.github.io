@@ -5,7 +5,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 ### Volume 8 (2022)
 - [Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)
 - [Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential”](8_2_Murphy.pdf)
-- Nicholas Shea, “The Feel of the Guitar in Popular Music Performance” (forthcoming)
+- [Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](8_3_Shea.pdf)
 - Stanley V. Kleppinger, “Appropriating Copland's Fanfare” (forthcoming)
 - Eron F.S., "Flat 2 as Hotness in Post-Millenial Pop" (forthcoming)
 - Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)" (forthcoming)
