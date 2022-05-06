@@ -4,22 +4,22 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 8.2 (March 2022)
+# Latest Issue: 8.3 (May 2022)
 
-### Clara Schumann’s op. 16 no. 3 and “Fifth Above, Third Below”: Discerning Inverted Canonic Potential
-Scott Murphy (University of Kansas)
+### The Feel of the Guitar in Popular Music Performance
+Nicholas Shea (Arizona State University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/529139284?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/580368924?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/8_2_Murphy.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/8_3_Shea.pdf)*
 
-*This video equips the viewer with a method to determine if a melody can support tonally idiomatic inverted canonic combinations, detecting not only diatonic consonances but also prohibited parallel motions. This method reveals that the subject for the third fugue from Clara Schumann’s op. 16 can form two dubious combinations at a particular time delay; she concludes her fugue with an ameliorating hybrid of these two combinations.*
+*Popular-music guitarists frequently reference the physicality of the fretboard when discussing songwriting and performance. Brittany Howard, for example, advocates that the feel of her guitar and physical gestures — chord shapes, licks, and riffs — are more critical to her craft than theoretical knowledge regarding pitch and harmony. However, in-depth gestural perspectives on musical organization are underrepresented in popular-music scholarship. This video article responds by investigating the relationship between fretboard gestures and popular music’s features in two contexts. First is a close analysis of “Short and Sweet” that focuses on how Howard coordinates chord voicings and larger left-hand shifts with important rhetorical moments reflected in the song’s lyrics. A following motion-capture study then surveys how similar gestural trends might generalize to performances by other guitarists. Data from performances by 14 local practicing guitarists demonstrate that the musicians typically prefer to articulate moments of formal transition with the largest physical gestures. Such findings suggest a degree of gestural intentionality and strategy amongst guitarists and clarify the contexts in which a guitarist might choose to maintain or abandon fretboard affordances.*
 
-***Keywords**: canon, stretto, fugue, counterpoint, inversion, Clara Schumann*
+***Keywords**: Britney Howard, guitar, popular music, performance analysis, motion-capture*
 
-DOI: [http://doi.org/10.30535/smtv.8.2](http://doi.org/10.30535/smtv.8.2)
+<!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.3)-->
 <p>&nbsp;</p>
 <hr>
 
