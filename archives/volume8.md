@@ -62,6 +62,8 @@ Volume 8.3 (May 2022)
 <p>&nbsp;</p>
 <hr>
 
+### "Appropriating Copland's _Fanfare_"
+Stanley V. Kleppinger (University of Nebraska-Lincoln)
 Volume 8.4 (June 2022)
 
 <div class="intrinsic-container intrinsic-container-16x9">
