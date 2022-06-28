@@ -4,22 +4,26 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 8.3 (May 2022)
+# Latest Issue: 8.4 (June 2022)
 
-### The Feel of the Guitar in Popular Music Performance
-Nicholas Shea (Arizona State University)
+### Appropriating Copland's _Fanfare_"
+Stanley V. Kleppinger (University of Nebraska)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/580368924?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/8_3_Shea.pdf)*
+<!--583507896-->
 
-*Popular-music guitarists frequently reference the physicality of the fretboard when discussing songwriting and performance. Brittany Howard, for example, advocates that the feel of her guitar and physical gestures — chord shapes, licks, and riffs — are more critical to her craft than theoretical knowledge regarding pitch and harmony. However, in-depth gestural perspectives on musical organization are underrepresented in popular-music scholarship. This video article responds by investigating the relationship between fretboard gestures and popular music’s features in two contexts. First is a close analysis of “Short and Sweet” that focuses on how Howard coordinates chord voicings and larger left-hand shifts with important rhetorical moments reflected in the song’s lyrics. A following motion-capture study then surveys how similar gestural trends might generalize to performances by other guitarists. Data from performances by 14 local practicing guitarists demonstrate that the musicians typically prefer to articulate moments of formal transition with the largest physical gestures. Such findings suggest a degree of gestural intentionality and strategy amongst guitarists and clarify the contexts in which a guitarist might choose to maintain or abandon fretboard affordances.*
 
-***Keywords**: Britney Howard, guitar, popular music, performance analysis, motion-capture*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/8_4_Kleppinger.pdf)*
+
+*This video explores the stylistic and associative evolution of the emblematic sound Aaron Copland forged in his _Fanfare for the Common Man_ (1942). This style, called here the _triumphant exordium_, consists of a constellation of specific musical features that has been imitated and troped by other composers—and by Copland himself—to carve out musical landscapes with evocative expressive qualities that include both clear and ambiguous connections with Americana. After summarizing the _Fanfare’s_ original musical and extra-musical contexts, this video illuminates this legacy through three case studies.*
+
+***Keywords**: Aaron Copland, _Fanfare for the Common Man_, Americana, trope, John Williams, James Horner, Jerome Robbins, Eugene Goosens, nationalism, patriotism, orchestration*
 
 <!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.3)-->
+<!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.4)-->
 <p>&nbsp;</p>
 <hr>
 
