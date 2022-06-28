@@ -7,7 +7,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 # Latest Issue: 8.4 (June 2022)
 
 ### "Appropriating Copland's _Fanfare_"
-Stanley V. Kleppinger (University of Nebraska)
+Stanley V. Kleppinger (University of Nebraska-Lincoln)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/583507896?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
