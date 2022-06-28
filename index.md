@@ -10,11 +10,8 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 Stanley V. Kleppinger (University of Nebraska)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/580368924?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/583507896?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
-
-<!--583507896-->
-
 
 *[Link to bibliography](http://www.smt-v.org/bibliographies/8_4_Kleppinger.pdf)*
 
