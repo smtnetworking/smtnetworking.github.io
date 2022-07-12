@@ -19,7 +19,7 @@ Stanley V. Kleppinger (University of Nebraska-Lincoln)
 
 ***Keywords**: Aaron Copland,* Fanfare for the Common Man, *Americana, John Williams, James Horner* 
 
-<!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.4)-->
+DOI: [http://doi.org/10.30535/smtv.8.4](http://doi.org/10.30535/smtv.8.4)
 <p>&nbsp;</p>
 <hr>
 
