@@ -58,7 +58,7 @@ Volume 8.3 (May 2022)
 
 ***Keywords**: Britney Howard, guitar, popular music, performance analysis, motion-capture*
 
-<!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.3)-->
+DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.3)
 <p>&nbsp;</p>
 <hr>
 
@@ -76,7 +76,7 @@ Volume 8.4 (June 2022)
 
 ***Keywords**: Aaron Copland,* Fanfare for the Common Man, *Americana, John Williams, James Horner* 
 
-<!--DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.4)-->
+DOI: [http://doi.org/10.30535/smtv.8.4](http://doi.org/10.30535/smtv.8.4)
 <p>&nbsp;</p>
 <hr>
 
