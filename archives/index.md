@@ -10,7 +10,7 @@ _8.3–8.6: Editor: Megan Long; Associate Editor: Jonathan De Souza_
 - [8.2: Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential”](volume8.md#clara-schumanns-op-16-no-3-and-fifth-above-third-below-discerning-inverted-canonic-potential)
 - [8.3:  Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](volume8.md#the-feel-of-the-guitar-in-popular-music-performance)
 - [8.4: Stanley V. Kleppinger, “Appropriating Copland's _Fanfare_”](volume8.md#appropriating-coplands-fanfare)
-- 8.5: Eron F.S., "Flat 2 as Hotness in Post-Millenial Pop" (forthcoming)
+- [8.5: Eron F.S., "Flat 2 as Hotness in Post-Millenial Pop"](volume8.md#flat-2-as-hotness-in-post-millenial-pop)
 - 8.6: Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)" (forthcoming)
 
 ### Volume 7 (2021)
