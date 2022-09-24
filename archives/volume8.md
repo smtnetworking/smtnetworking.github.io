@@ -80,7 +80,7 @@ DOI: [http://doi.org/10.30535/smtv.8.4](http://doi.org/10.30535/smtv.8.4)
 <p>&nbsp;</p>
 <hr>
 
-### "Flat 2 as Hotness in Post-Millennial Pop"
+### Flat 2 as Hotness in Post-Millennial Pop
 Eron F.S. (Eastman School of Music)
 Volume 8.5 (August 2022)
 
