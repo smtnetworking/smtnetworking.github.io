@@ -11,7 +11,7 @@ _8.3–8.6: Editor: Megan Long; Associate Editor: Jonathan De Souza_
 - [8.3:  Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](volume8.md#the-feel-of-the-guitar-in-popular-music-performance)
 - [8.4: Stanley V. Kleppinger, “Appropriating Copland's _Fanfare_”](volume8.md#appropriating-coplands-fanfare)
 - [8.5: Eron F.S., "Flat 2 as Hotness in Post-Millennial Pop"](volume8.md#flat-2-as-hotness-in-post-millennial-pop)
-- 8.6: Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)" (forthcoming)
+- [8.6: Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)"](volume8.md#when-hip-hop-accents-collide-they-create-syncopation)
 
 ### Volume 7 (2021)
 _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
