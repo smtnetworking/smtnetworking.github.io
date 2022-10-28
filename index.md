@@ -4,22 +4,22 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 8.5 (August 2022)
+# Latest Issue: 8.6 (October 2022)
 
-### "Flat 2 as Hotness in Post-Millennial Pop"
-Eron F.S. (Eastman School of Music)
+### "When Hip-Hop Accents Collide (They Create Syncopation)"
+Ben Duinker (University of Toronto)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/653218473?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/645522815?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/8_5_FS.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/8_6_Duinker.pdf)*
 
-*In post-2000s pop, particularly synth-driven, dance-style pop, Flat 2 has become a* sonic signal of hotness. *Drawing on a collection of 75+ songs, this video explains how Hot Flat 2 usually appears in this style of music, the meanings associated with its sound, and what happens as we approach the boundaries of these sounds and meanings. Usually, Flat 2, defined as “the note a half step above the home note,” typically appears in isolation as part of a bassline or backing track rather than as part of a triad. In most of the songs where it appears, the lyrics center on “hotness,” defined as an expression of confidence, sexuality, or both. One possible reason for this is the “exotic” association with Flat 2—pop songs sometimes use “foreign” sounds to connote a non- specific other and conjure fetishizing stereotypes about Black and brown women’s bodies. This legacy of Orientalism and racism becomes even more apparent when songs reinforce Hot Flat 2 with lyrics, timbres, and augmented seconds. The sparser the pitch context, the less a note might sound like Flat 2, and as we approach or leave the boundaries of the pop genre, the hotness associations can fade altogether. With all this in mind, what starts as noticing a distinctive note becomes a way to notice genre boundaries and cultural connotations in the music we hear around us.*
+*This video characterizes syncopation in hip-hop music as resulting from the interaction between accent patterns on three textural layers: the lyrics, the rapped delivery of these lyrics (flow), and the instrumental accompaniment (the beat). I unpack different accent types operating on these layers (word accents, performed accents, and metric accents), using examples from Travis Scott, Queen Latifah, Outkast, and others to illustrate their presence and the temporal relationships between them. I propose that hip-hop syncopation is neither a denial, displacement, nor contradiction of metric structure, but rather a product of it, wherein multiple rhythmic layers simultaneously act upon one another.*
 
-***Keywords**: Flat 2, hotness, exoticism, pop, scale degree* 
+***Keywords**: flow, music theory, hip-hop, rap music, accent* 
 
-<!--DOI: [http://doi.org/10.30535/smtv.8.5](http://doi.org/10.30535/smtv.8.5)-->
+<!--DOI: [http://doi.org/10.30535/smtv.8.5](http://doi.org/10.30535/smtv.8.6)-->
 <p>&nbsp;</p>
 <hr>
 
