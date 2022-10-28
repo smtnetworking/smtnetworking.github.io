@@ -8,7 +8,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](8_3_Shea.pdf)
 - [Stanley V. Kleppinger, “Appropriating Copland's _Fanfare_”](8_4_Kleppinger.pdf)
 - [Eron F.S., "Flat 2 as Hotness in Post-Millennial Pop"](8_5_FS.pdf)
-- Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)" (forthcoming)
+- [Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)"](8_6_Duinker.pdf)
 
 ### Volume 7 (2021)
 - [Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](7_1_Probst.pdf)
