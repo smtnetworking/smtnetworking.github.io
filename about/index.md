@@ -21,15 +21,15 @@ If you have any questions about the process, please feel free to contact the [_S
 **Members at Large**
 - Christopher Brody, University of Louisville (2023)
 - Juan Chattah, University of Miami (2023)
-- Jeremy Day-O'Connell, Skidmore College (2022)
 - Tomoko Deguchi, Winthrop University (2023)
+- Chelsey Hamm, Christopher Newport University (2025)
 - Kristina Knowles, Arizona State University (2023)
-- Kara Yoo Leaman, Oberlin College and Conservatory (2022)
 - Victoria Malawey, Macalester College (2024)
 - Tahirih Motazedian, Vassar College (2024)
 - Joon Park, University of Arkansas (2024)
 - Alexander Rehding, Harvard University (2024)
-- Cara Stroud, Michigan State University (2022)
-- John Turci-Escobar, University of Texas-Austin (2022)
+- René Rusch, University of Michigan (2025)
+- Rebecca Simpson-Litke, University of Manitoba (2025)
+
 
 **Web Editor:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
