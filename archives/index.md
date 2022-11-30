@@ -1,5 +1,15 @@
 # SMT-V Archives
 
+### Volume 9 (2023)
+
+_Editor: Megan Long; Associate Editor: Jonathan De Souza_
+- 9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film" (forthcoming)
+- 9.2: Christine Boone, "Clickbait Analysis? A Look at Algorithmic Remixes" (forthcoming)
+- 9.3: Rachel Short, "Interactions Between Music and Dance in Two Musical Theater Tap Breaks" (forthcoming)
+- 9.4: Nate Mitchell, "Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of _Animal Crossing: New Horizons_" (forthcoming)
+- 9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping's _The Wind Sounds in the Sky_ (2002)" (forthcoming)
+- 9.6: Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?" (forthcoming)
+
 ### Volume 8 (2022)
 
 _8.1–8.2: Editor: L. Poundie Burstein; Associate Editor: Seth Monahan_
