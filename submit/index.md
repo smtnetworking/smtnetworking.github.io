@@ -17,7 +17,7 @@ Submissions will be evaluated in three stages. (1) Authors submit a short propos
 Throughout the process, authors and prospective authors are invited to consult our [Resources](resources.md) page for information about creating video articles.
 
 #### Stage I: Abstract and Storyboard/Script Draft
-The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to anonymous review with a quick turnaround. 
+The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to anonymous review with a quick turnaround. [Click here to view some sample SMT-V Proposals](smt-v-sample-proposals.pdf).
 
 #### Stage II: Storyboard and/or Script Draft
 Pending approval of this abstract, the applicant will be invited to provide a storyboard or script (or both), which will again be subjected to the fully anonymous review process. (In special circumstances, authors can also request to send a video draft at this stage instead of a storyboard/script, subject to the approval of the editors; ask the _SMT-V_ Editor for details.) If more than twenty-four months elapse between acceptance of a storyboard or script and production of a video article, the storyboard or script will re-enter the review process before video production can begin.
