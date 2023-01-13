@@ -3,7 +3,7 @@
 ### Volume 9 (2023)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
-- 9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film" (forthcoming)
+- [9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film)
 - 9.2: Christine Boone, "Clickbait Analysis? A Look at Algorithmic Remixes" (forthcoming)
 - 9.3: Rachel Short, "Interactions Between Music and Dance in Two Musical Theater Tap Breaks" (forthcoming)
 - 9.4: Nate Mitchell, "Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of _Animal Crossing: New Horizons_" (forthcoming)
