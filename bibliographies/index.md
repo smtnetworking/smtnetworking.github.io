@@ -5,6 +5,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 ### Volume 9 (2023)
 - [Chelsea Oden: "'We Are Dancing, We Are Flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](9_1_Oden.pdf)
 - [Christine Boone: "Algorithmic Remixes"](9_2_Boone.pdf)
+- [Rachel Short: "Interactions Between Music and Dance in Two Musical Theatre Tap Breaks"](9_3_Short.pdf)
 
 ### Volume 8 (2022)
 - [Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)
