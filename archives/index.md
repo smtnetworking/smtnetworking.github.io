@@ -6,7 +6,7 @@ _Editor: Megan Long; Associate Editor: Jonathan De Souza_
 - [9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film)
 - [9.2: Christine Boone, "Algorithmic Remixes"](volume9.html#algorithmic-remixes)
 - [9.3: Rachel Short, "Interactions Between Music and Dance in Two Musical Theater Tap Breaks"](volume9.html#interactions-between-music-and-dance-in-two-musical-theater-tap-breaks)
-- 9.4: Nate Mitchell, "Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of _Animal Crossing: New Horizons_" (forthcoming)
+- [9.4: Nate Mitchell, "Variations on a Theme by K. K. Slider: Memory and Play in _Animal Crossing: New Horizons_"](volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons)
 - 9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping's _The Wind Sounds in the Sky_ (2002)" (forthcoming)
 - 9.6: Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?" (forthcoming)
 
