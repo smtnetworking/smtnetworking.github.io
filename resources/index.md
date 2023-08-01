@@ -1,3 +1,11 @@
+# Resources
+
+# Teach with _SMT-V_!
+
+SMT-V video-articles are designed to be accessible to students from the high school level, and many instructors of music theory have used our videos in their teaching all the way through the graduate level. 
+
+Click here to find a list of SMT-V video-articles by pedagogical topic, and some ideas for using them in class!
+
 # Bibliographies
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
