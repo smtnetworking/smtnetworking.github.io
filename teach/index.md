@@ -7,34 +7,34 @@ SMT-V video-articles are designed to be accessible to students from the high sch
 
 ## Topical List
 - [Rhythm and Meter](rhythm.html)
-- form
-- timbre
-- melody
-- counterpoint
-- text
-- embodiment
-- topics
-- history
-- perception
-- archives
-- public
-- culture
-- performance
+- [Musical Form and Phrase Structure](form.html)
+- [Timbre](timbre.html)
+- [Melody and Motive](melody.html)
+- [Counterpoint](counterpoint.html)
+- [Text-Music Relationships](text.html)
+- [Music and Embodiment, Instrumental Affordances](embodiment.html)
+- [Musical Topics, Musical Meaning](topics.html)
+- [History of Music Theory](history.html)
+- [Music Perception and Cognition](perception.html)
+- [Autographs and Archival Documents](archives.html)
+- [Public Music Theory and Music Theory Pedagogy](public.html)
+- [Cultural Exchange, Cultural Appropriation, and Exoticism](culture.html)
+- [Performance and Analysis](performance.html)
 
 ## Repertoire
-- global
-- dance
-- film
-- video
-- theater
-- pop
-- hiphop
-- jazz
-- videogames
-- twentiethcentury
-- twelvetone
-- nineteenthcentury
-- eighteenthcentury
+- [Global Musics](global.html)
+- [Music and Dance](dance.html)
+- [Film and Television Music](film.html)
+- [Music Video](video.html)
+- [Musical Theater, Tin Pan Alley](theater.html)
+- [Rock and Popular Music](pop.html)
+- [Hip-Hop and Rap](hiphop.html)
+- [Jazz](jazz.html)
+- [Video Game Music](videogames.html)
+- [20th-Century Western Art Music](twentiethcentury.html)
+- [Twelve-Tone Music](twelvetone.html)
+- [19th-Century Western Art Music](nineteenthcentury.html)
+- [18th-Century Western Art Music](eighteenthcentury.html)
 
 
 
