@@ -6,7 +6,7 @@ SMT-V video-articles are designed to be accessible to students from the high sch
 <hr>
 
 ## Topical List
-- [Rhythm and Meter](rhythm.md)
+- [Rhythm and Meter](rhythm.html)
 - form
 - timbre
 - melody
