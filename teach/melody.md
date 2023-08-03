@@ -1,5 +1,7 @@
 ## Melody and Motive
 
+- [9.4: Nate Mitchell, “Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of Animal Crossing: New Horizons”](https://www.smt-v.org/archives/volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons) – treats the soundtrack of Animal Crossing: New Horizons as a modern example of theme and variations form; suitable for introducing theme and variations at all levels
+
 - [7.4: Michael Buchler, “I Don’t Care if I Never Get Back: Optimism and Ascent in ‘Take Me Out to The Ball Game’”](https://www.smt-v.org/archives/volume7.html#i-dont-care-if-i-never-get-back-optimism-and-ascent-in-take-me-out-to-the-ball-game) – analyzes the melodic structure and phrase structure of the verse of “Take Me Out to the Ball Game” to contextualize the melodic ascent of the better-known chorus; suitable for students at all levels learning about cadences, phrase structure, and melodic norms, as well as for advanced students of linear analysis
 
 - [7.5: Adem Merter Birson, “Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies”](https://www.smt-v.org/archives/volume7.html#understanding-turkish-classical-makam-identifying-modes-through-characteristic-melodies) – shows how melodic formulas underlie makam melodies, and how these formulas were obscured by the adaptation of the repertoire to Western staff notation
