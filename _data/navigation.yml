@@ -1,4 +1,4 @@
-s# If you want to link only specific pages in your header, add the path to the
+# If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
   - title: "About"
@@ -8,7 +8,7 @@ main:
   - title: "Teach with SMT-V"
     url: /teach/
   - title: "Bibliographies"
-    url: /resources/
+    url: /bibliographies/
   - title: "Submit"
     url: /submit/
   - title: "SMT Home"
