@@ -1,11 +1,13 @@
 ## 20th-century Western Art Music
 
-- 6.1: Cecilia Oinas, “Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works” – explores the intimacy of hands-crossing gestures in four-hand piano music
 
-- 8.4: Stanley V. Kleppinger, “Appropriating Copland’s Fanfare” – argues that characteristic gestures from Copland’s Fanfare for the Common Man came to symbolize Americanness in popular culture; suitable for introducing students at all levels to topic theory
 
-- 3.2: J. Daniel Jenkins, “Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’” – shows how Arnold Schoenberg teaches how to generate inversionally combinatorial twelve-tone rows, drawing from his pre-broadcast sketches; suitable for post-tonal music theory courses; demonstrates how one might use an archive in a music theoretical context
+- [8.4: Stanley V. Kleppinger, “Appropriating Copland’s Fanfare”](https://www.smt-v.org/archives/volume8.html#appropriating-coplands-fanfare) – argues that characteristic gestures from Copland’s Fanfare for the Common Man came to symbolize Americanness in popular culture; suitable for introducing students at all levels to topic theory
 
-- 7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene” – produces a new silent film to accompany Schoenberg’s music for an imagined silent film; accompanying materials: https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hilewicz.html
+- [7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene”](https://www.smt-v.org/archives/volume7.html#a-film-scene-for-schoenbergs-begleitungsmusik-zu-einer-lichtspielscene) – produces a new silent film to accompany Schoenberg’s music for an imagined silent film; accompanying materials: https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hilewicz.html
 
-- 5.1–5.3: Joshua Banks Mailman, “Babbitt’s Beguiling Surfaces, Improvised Inside” Part 1, Part 2, and Part 3 – discusses Babbitt’s compositional techniques (specifically partial ordering) and connects these techniques to improvisation (including jazz); suitable for students studying 20th-century compositional techniques
+- [6.1: Cecilia Oinas, “Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works”](https://www.smt-v.org/archives/volume6.html#sensitivity-intimacy-and-bodily-interaction-in-kurt%C3%A1gs-four-handed-piano-works) – explores the intimacy of hands-crossing gestures in four-hand piano music
+
+- 5.1–5.3: Joshua Banks Mailman, “Babbitt’s Beguiling Surfaces, Improvised Inside” [Part 1](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms), [Part 2](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities), and [Part 3](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-iii-opportunities) – discusses Babbitt’s compositional techniques (specifically partial ordering) and connects these techniques to improvisation (including jazz); suitable for students studying 20th-century compositional techniques
+
+- [3.2: J. Daniel Jenkins, “Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’”](https://www.smt-v.org/archives/volume3.html#schoenbergs-advice-for-beginners-in-composition-with-twelve-tones) – shows how Arnold Schoenberg teaches how to generate inversionally combinatorial twelve-tone rows, drawing from his pre-broadcast sketches; suitable for post-tonal music theory courses; demonstrates how one might use an archive in a music theoretical context
