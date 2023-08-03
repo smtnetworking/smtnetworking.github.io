@@ -13,7 +13,7 @@ Volume 9.4 (July 2023)
 
 *In* Animal Crossing: New Horizons (2020), *players socialize, build, and explore an infectiously cartoony island community against a backdrop of equally infectious music. This backdrop consists of continuously looping tracks that change every hour, on the hour; producing a daily cycle of 24 compositions bound together through motivic cross-reference. In this video, I analyze the sonic materials of* New Horizons’s *hourly cycle against the compositional ethic of its music team, who “strove to create music that allows the listener’s own emotions and imagination to fill in the space between the sounds” (Ginsberg 2020). Motivic and topical references, I argue, act as triggers for space filling, inviting players to mentally link the sounds they are currently hearing to a network of meaning-laden memories. The musical cycle thereby becomes an open-ended musical sandbox, presenting players with a wealth of sonic materials to build into rich experiences.*
 
-***Keywords**: [ludomusicology](http://www.smt-v.org/teach/videogames.html), variation, [motive](http://www.smt-v.org/teach/melody.html), [topics]((http://www.smt-v.org/teach/topics/html), meaning,* Animal Crossing: New Horizons, *music theory* 
+***Keywords**: [ludomusicology](http://www.smt-v.org/teach/videogames.html), variation, [motive](http://www.smt-v.org/teach/melody.html), [topics](http://www.smt-v.org/teach/topics/html), meaning,* Animal Crossing: New Horizons, *music theory* 
 
 <!--DOI: [http://doi.org/10.30535/smtv.9.4](http://doi.org/10.30535/smtv.9.4)-->
 <p>&nbsp;</p>
@@ -32,7 +32,7 @@ Volume 9.3 (May 2023)
 
 *How do sounds made by dancers interact with rhythmic sounds in the music? When does the relationship between them change? Like music, dance has patterns, or “groupings,” that we can hear and see, particularly in tap dance, where the dancer’s feet intentionally create rhythmic sounds. Typically, choreography involves rhythmic groups that directly correspond to musical rhythms. But sometimes, movement patterns are at odds with musical patterns—non-alignments caused through metric displacement, groups with conflicting sizes, or asymmetrical patterns. The rhythmic complexity of these conflicts between music and dance can increase energy, and changing relationships between music and dance patterns can mark distinct sections. This video explores examples from two Broadway-style tap dance breaks (“I’ve Got Rhythm,” from* Crazy for You, *and the finale of* Billy Elliot Live) *to show how dancers’ on-stage movements and rhythmic tap sounds combine with musical rhythms and phrases to generate momentum and delineate formal structure.*
 
-***Keywords**: [rhythm](http://www.smt-v.org/teach/rhythm.html), choreography, metric dissonance, [Broadway](http://www.smt-v.org/teach/theater.html), [tap dance]((http://www.smt-v.org/teach/dance.html)* 
+***Keywords**: [rhythm](http://www.smt-v.org/teach/rhythm.html), choreography, metric dissonance, [Broadway](http://www.smt-v.org/teach/theater.html), [tap dance](http://www.smt-v.org/teach/dance.html)* 
 
 <!--DOI: [http://doi.org/10.30535/smtv.9.3](http://doi.org/10.30535/smtv.9.3)-->
 <p>&nbsp;</p>
