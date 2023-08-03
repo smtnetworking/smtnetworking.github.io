@@ -11,3 +11,8 @@ Videos that explore the myriad ways that musicians have made music fundamentals,
 - 4.2: Carmel Raz, [“Anne Young’s Musical Games (1801): Music Theory, Gender, and Game Design”](https://www.smt-v.org/archives/volume4.html#anne-youngs-musical-games-1801-music-theory-gender-and-game-design) and 4.3: Carmel Raz, [“Anne Young’s Introduction to Music (1803): Pedagogical, Speculative, and Ludic Music Theory”](https://www.smt-v.org/archives/volume4.html#anne-youngs-introduction-to-music-1803-pedagogical-speculative-and-ludic-music-theory) – discusses an educational board game for teaching music fundamentals and the connection to contemporary speculative music theory; suitable for students studying music and gender, the history of music theory, and music theory pedagogy
 
 - [3.2: J. Daniel Jenkins, “Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’”](https://www.smt-v.org/archives/volume3.html#schoenbergs-advice-for-beginners-in-composition-with-twelve-tones) – shows how Arnold Schoenberg teaches how to generate inversionally combinatorial twelve-tone rows, drawing from his pre-broadcast sketches; suitable for post-tonal music theory courses; demonstrates how one might use an archive in a music theoretical context
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
