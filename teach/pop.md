@@ -13,3 +13,8 @@
 - [6.4: Alyssa Barna, “The Dance Chorus in Recent Top-40 Music”](https://www.smt-v.org/archives/volume6.html#the-dance-chorus-in-recent-top-40-music) – describes a new formal module in pop music influenced by EDM production techniques; suitable for students learning about musical form, the impact of timbre/production on musical experience, and embodiment
 
 - [5.5: Matthew E. Ferrandino and Brad Osborn, “Seeing Stories, Hearing Stories in Narrative Music Video”](https://www.smt-v.org/archives/volume5.html#seeing-stories-hearing-stories-in-narrative-music-video) – introduces four different kinds of relationships between visual and lyrical content in music videos ranging from “explicit narrative,” in which images and lyrics tell the same story, to “conflicting narrative,” in which the images and lyrics tell contradicting stories; makes connections between visual narrative and musical content, including harmonic progression, music production, and vocal register; ideal for engaging analysis of lyrics, musical content, and images in music video
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
