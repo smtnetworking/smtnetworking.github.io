@@ -15,3 +15,8 @@
 - [3.3: Stephen Rodgers, “Music, Poetry, and Performance in a Song by Maria Schneider”](https://www.smt-v.org/archives/volume3.html#music-poetry-and-performance-in-a-song-by-maria-schneider) – introduces how poetic declamation and the sound of recitation might influence compositional decision and the performer’s interpretive choices; suitable for student singers and composers
 
 - [2.1: Harald Krebs, “The Influence of Clara Schumann’s Lieder on Declamation in Robert Schumann’s Late Songs”](https://www.smt-v.org/archives/volume2.html#the-influence-of-clara-schumanns-lieder-on-declamation-in-robert-schumanns-late-songs) – This video could be used to teach several rhythm and meter topics. The main focus of the video is on the differences between poetic rhythm and Schumann's music-metrically irregular settings of these text-metrically regular poems. Teaching topics that may come up include Lerdahl/Jackendoff dot arrays, hypermetric numberings, and recompositional analysis; the video could also be used to talk about text-music relationships (especially in terms of expressive meaning), or in a discussion of historical questions about influence.
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
