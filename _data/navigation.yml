@@ -5,8 +5,10 @@ main:
     url: /about/
   - title: "Archives"
     url: /archives/
-  - title: "Resources"
-    url: /resources/
+  - title: "Teach with _SMT-V_"
+    url: /teach/
+  - title: "Bibliographies"
+    url: /bibliographies/
   - title: "Submit"
     url: /submit/
   - title: "SMT Home"
