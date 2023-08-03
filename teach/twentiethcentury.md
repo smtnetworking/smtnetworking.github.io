@@ -11,3 +11,8 @@
 - 5.1–5.3: Joshua Banks Mailman, “Babbitt’s Beguiling Surfaces, Improvised Inside” [Part 1](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms), [Part 2](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities), and [Part 3](https://www.smt-v.org/archives/volume5.html#babbitts-beguiling-surfaces-improvised-inside-part-iii-opportunities) – discusses Babbitt’s compositional techniques (specifically partial ordering) and connects these techniques to improvisation (including jazz); suitable for students studying 20th-century compositional techniques
 
 - [3.2: J. Daniel Jenkins, “Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’”](https://www.smt-v.org/archives/volume3.html#schoenbergs-advice-for-beginners-in-composition-with-twelve-tones) – shows how Arnold Schoenberg teaches how to generate inversionally combinatorial twelve-tone rows, drawing from his pre-broadcast sketches; suitable for post-tonal music theory courses; demonstrates how one might use an archive in a music theoretical context
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
