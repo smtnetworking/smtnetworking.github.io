@@ -17,3 +17,8 @@
 - [3.3: Stephen Rodgers, “Music, Poetry, and Performance in a Song by Maria Schneider”](https://www.smt-v.org/archives/volume3.html#music-poetry-and-performance-in-a-song-by-maria-schneider) – introduces how poetic declamation and the sound of recitation might influence compositional decision and the performer’s interpretive choices; suitable for student singers and composers
 
 - [1.3: Edward Klorman, “Multiple Agency in Mozart’s Chamber Music”](https://www.smt-v.org/archives/volume1.html#multiple-agency-in-mozarts-chamber-music) – Professor Edward Klorman emphasizes how historical sources, including musical scores, can draw our attention to the social interplay among individual performers, or “personas enacted by the individual players” (4:38–41), within string quartets. Using an excerpt from the last movement of Mozart’s String Quartet in G Major, K. 387 (1782), as an example, Klorman illustrates his concept of “multiple agency,” a perspective that “celebrates the creative role of performers” and that yields “vivid analytical interpretations that can be masked by conventional, omniscient vantage points” (4:10–28). This video is suitable for students at all levels who would like to learn more about the socio-historical and -cultural dimensions of composition and performance. Basic knowledge of musical form and tonality are welcome but not necessary. For further reading, please see the author’s monograph Mozart’s Music of Friends: Social Interplay in the Chamber Works (Cambridge University Press, 2016) and Edward T. Cone’s The Composer’s Voice (University of California Press, 1974). 
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
