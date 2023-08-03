@@ -7,3 +7,8 @@
 - [7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene”](https://www.smt-v.org/archives/volume7.html#a-film-scene-for-schoenbergs-begleitungsmusik-zu-einer-lichtspielscene) – produces a new silent film to accompany Schoenberg’s music for an imagined silent film; accompanying materials: https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hilewicz.html
 
 - [4.1: Christopher Doll, “Was it Diegetic, or Just a Dream? Music’s Paradoxical Place in the Film Inception”](https://www.smt-v.org/archives/volume4.html#was-it-diegetic-or-just-a-dream-musics-paradoxical-place-in-the-film-inception) – explains terms “diegetic,” “nondiegetic,” and “fantastical gap” as it relates to analysis of music in Inception (2010); shows interrelations between motives drawn from diegetic content used in Hans Zimmer’s film score, which serves both diegetic and nondiegetic functions; ideal for engaging analysis of film music and meaningful motivic relations
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
