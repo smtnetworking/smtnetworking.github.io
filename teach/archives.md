@@ -11,4 +11,4 @@
 <p>&nbsp;</p>
 <hr>
 
-[Back to Teach with _SMT-V_](index.html)
+[Back to Topics](index.html)
