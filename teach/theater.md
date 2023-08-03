@@ -5,3 +5,8 @@
 - [7.4: Michael Buchler, “I Don’t Care if I Never Get Back: Optimism and Ascent in ‘Take Me Out to The Ball Game’”](https://www.smt-v.org/archives/volume7.html#i-dont-care-if-i-never-get-back-optimism-and-ascent-in-take-me-out-to-the-ball-game) – analyzes the melodic structure and phrase structure of the verse of “Take Me Out to the Ball Game” to contextualize the melodic ascent of the better-known chorus; suitable for students at all levels learning about cadences, phrase structure, and melodic norms, as well as for advanced students of linear analysis
 
 - [6.2: Brian Edward Jarvis and John Peterson, “Detour or Bridge? Contrasting Sections and Storytelling in Musical Theater”](https://www.smt-v.org/archives/volume6.html#detour-or-bridge-contrasting-sections-and-storytelling-in-musical-theater) – explores how formal interruptions (“detours”) in musical theater do and don’t behave like bridges; suitable for students at all levels discussing classical phrase types as well as larger formal types and narrative storytelling
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
