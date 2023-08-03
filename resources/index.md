@@ -4,7 +4,7 @@
 
 SMT-V video-articles are designed to be accessible to students from the high school level, and many instructors of music theory have used our videos in their teaching all the way through the graduate level. 
 
-Check back soon for a list of SMT-V video-articles by pedagogical topic, and some ideas for using them in class!
+[Click here](http://www.smt-v.org/teach) for a list of SMT-V video-articles organized by pedagogical topic, and some ideas for using them in class!
 
 # Bibliographies
 
