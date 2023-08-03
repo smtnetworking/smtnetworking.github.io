@@ -7,3 +7,8 @@
 - [6.3: Daniel Ketter, “Discovering Essential Voices in Johann Sebastian Bach’s Solo Instrumental Suite Movements”](https://www.smt-v.org/archives/volume6.html#discovering-essential-voices-in-johann-sebastian-bachs-solo-instrumental-suite-movements) – suitable for teaching binary form (especially differences between Baroque and Classical binary form), paired with Brody, “Teaching Bach’s Binary Forms” (see bibliography); discusses how Bach implies distinct voices in his solo instrumental works; suitable for advanced students studying linear analysis (pairs well with Rothstein, “on Implied Tones”); see also https://www.youtube.com/watch?v=yguQ1Q3kGB8&list=PLoDoWaIYcEP_bCYiTYBNnFwG2TypHrTDG and discussion in Headlam, “Music Informance: Performance for the Information Age” in the Oxford Handbook of Public Music Theory
 
 - [4.1: Christopher Doll, “Was it Diegetic, or Just a Dream? Music’s Paradoxical Place in the Film Inception”](https://www.smt-v.org/archives/volume4.html#was-it-diegetic-or-just-a-dream-musics-paradoxical-place-in-the-film-inception) – explains terms “diegetic,” “nondiegetic,” and “fantastical gap” as it relates to analysis of music in Inception (2010); shows interrelations between motives drawn from diegetic content used in Hans Zimmer’s film score, which serves both diegetic and nondiegetic functions; ideal for engaging analysis of film music and meaningful motivic relations
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
