@@ -9,3 +9,8 @@
 - [7.2: Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](https://www.smt-v.org/archives/volume7.html#dance-as-music-in-george-balanchines-concerto-barocco) – addresses conflicting patterns in music and choreography and connects this metric dissonance to a melodic motive in Bach; suitable for students at all levels, especially study of metric dissonance
 
 - [6.4: Alyssa Barna, “The Dance Chorus in Recent Top-40 Music”](https://www.smt-v.org/archives/volume6.html#the-dance-chorus-in-recent-top-40-music) – describes a new formal module in pop music influenced by EDM production techniques; suitable for students learning about musical form, the impact of timbre/production on musical experience, and embodiment
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
