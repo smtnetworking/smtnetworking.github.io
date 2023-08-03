@@ -5,3 +5,8 @@
 - [5.4: Scott Murphy, “‘Fifth Above, Third Below’: Discerning Canonic Potential”](https://www.smt-v.org/archives/volume5.html#fifth-above-third-below-discerning-canonic-potential) – shows how to identify whether a subject can be treated in canon; considers examples from Clara Schumann; suitable for students of counterpoint at all levels
 
 - [2.1: Harald Krebs, “The Influence of Clara Schumann’s Lieder on Declamation in Robert Schumann’s Late Songs”](https://www.smt-v.org/archives/volume2.html#the-influence-of-clara-schumanns-lieder-on-declamation-in-robert-schumanns-late-songs) – This video could be used to teach several rhythm and meter topics. The main focus of the video is on the differences between poetic rhythm and Schumann's music-metrically irregular settings of these text-metrically regular poems. Teaching topics that may come up include Lerdahl/Jackendoff dot arrays, hypermetric numberings, and recompositional analysis; the video could also be used to talk about text-music relationships (especially in terms of expressive meaning), or in a discussion of historical questions about influence.
+
+<p>&nbsp;</p>
+<hr>
+
+[Back to Topics](index.html)
