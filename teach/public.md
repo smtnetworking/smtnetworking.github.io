@@ -1,4 +1,4 @@
-## Public Music Theory and Music Theory Pedagogy. 
+## Public Music Theory and Music Theory Pedagogy
 
 Videos that explore the myriad ways that musicians have made music fundamentals, music theory, and music analysis, legible to the public.
 
