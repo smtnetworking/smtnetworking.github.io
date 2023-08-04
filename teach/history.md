@@ -1,4 +1,4 @@
-## History of Music Theory. 
+## History of Music Theory
 
 Videos that explore how music theoretical ideas have been developed and communicated in the past.
 
