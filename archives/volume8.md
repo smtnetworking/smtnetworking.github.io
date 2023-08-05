@@ -17,7 +17,7 @@ Volume 8.1 (January 2022)
 
 *Kuwata transformed* Abbey Road *into political parody through linguistic sleight of hand. Kuwata chose Japanese lyrics with similar vowels and consonants (as demonstrated by their proximities on the International Phonetic Alphabet) to make them sound like the original English lyrics. By presenting his acrid commentary as a parody of this much-loved album and thus framing it as humorous entertainment, Kuwata was able to publicly criticize Japanese politicians.*
 
-***Keywords**: Parody, cover, Beatles,* Abbey Road, *Japan, linguistics, rock, Kuwata Keisuke, music and politics*
+***Keywords**: Parody, cover, Beatles,* Abbey Road, *Japan, linguistics, [rock](http://www.smt-v.org/teach/pop.html), Kuwata Keisuke, music and politics, [music and text](http://www.smt-v.org/teach/text.html)*
 
 DOI: [http://doi.org/10.30535/smtv.8.1](http://doi.org/10.30535/smtv.8.1)
 <p>&nbsp;</p>
@@ -37,7 +37,7 @@ Volume 8.2 (March 2022)
 
 *This video equips the viewer with a method to determine if a melody can support tonally idiomatic inverted canonic combinations, detecting not only diatonic consonances but also prohibited parallel motions. This method reveals that the subject for the third fugue from Clara Schumann’s op. 16 can form two dubious combinations at a particular time delay; she concludes her fugue with an ameliorating hybrid of these two combinations.*
 
-***Keywords**: canon, stretto, fugue, counterpoint, inversion, Clara Schumann*
+***Keywords**: canon, stretto, fugue, [counterpoint](http://www.smt-v.org/teach/counterpoint.html), inversion, Clara Schumann, [19th-century western art music](http://www.smt-v.org/teach/nineteenth.html)*
 
 DOI: [http://doi.org/10.30535/smtv.8.2](http://doi.org/10.30535/smtv.8.2)
 <p>&nbsp;</p>
@@ -56,7 +56,7 @@ Volume 8.3 (May 2022)
 
 *Popular-music guitarists frequently reference the physicality of the fretboard when discussing songwriting and performance. Brittany Howard, for example, advocates that the feel of her guitar and physical gestures — chord shapes, licks, and riffs — are more critical to her craft than theoretical knowledge regarding pitch and harmony. However, in-depth gestural perspectives on musical organization are underrepresented in popular-music scholarship. This video article responds by investigating the relationship between fretboard gestures and popular music’s features in two contexts. First is a close analysis of “Short and Sweet” that focuses on how Howard coordinates chord voicings and larger left-hand shifts with important rhetorical moments reflected in the song’s lyrics. A following motion-capture study then surveys how similar gestural trends might generalize to performances by other guitarists. Data from performances by 14 local practicing guitarists demonstrate that the musicians typically prefer to articulate moments of formal transition with the largest physical gestures. Such findings suggest a degree of gestural intentionality and strategy amongst guitarists and clarify the contexts in which a guitarist might choose to maintain or abandon fretboard affordances.*
 
-***Keywords**: Britney Howard, guitar, popular music, performance analysis, motion-capture*
+***Keywords**: Britney Howard, guitar, [popular music](http://www.smt-v.org/teach/pop.html), [performance analysis](http://www.smt-v.org/teach/performance.html), motion-capture*
 
 DOI: [http://doi.org/10.30535/smtv.8.3](http://doi.org/10.30535/smtv.8.3)
 <p>&nbsp;</p>
@@ -92,7 +92,7 @@ Volume 8.5 (August 2022)
 
 *In post-2000s pop, particularly synth-driven, dance-style pop, Flat 2 has become a* sonic signal of hotness. *Drawing on a collection of 75+ songs, this video explains how Hot Flat 2 usually appears in this style of music, the meanings associated with its sound, and what happens as we approach the boundaries of these sounds and meanings. Usually, Flat 2, defined as “the note a half step above the home note,” typically appears in isolation as part of a bassline or backing track rather than as part of a triad. In most of the songs where it appears, the lyrics center on “hotness,” defined as an expression of confidence, sexuality, or both. One possible reason for this is the “exotic” association with Flat 2—pop songs sometimes use “foreign” sounds to connote a non- specific other and conjure fetishizing stereotypes about Black and brown women’s bodies. This legacy of Orientalism and racism becomes even more apparent when songs reinforce Hot Flat 2 with lyrics, timbres, and augmented seconds. The sparser the pitch context, the less a note might sound like Flat 2, and as we approach or leave the boundaries of the pop genre, the hotness associations can fade altogether. With all this in mind, what starts as noticing a distinctive note becomes a way to notice genre boundaries and cultural connotations in the music we hear around us.*
 
-***Keywords**: Flat 2, hotness, exoticism, pop, scale degree* 
+***Keywords**: Flat 2, hotness, [exoticism](http://www.smt-v.org/teach/culture.html), [pop](http://www.smt-v.org/teach/pop.html), scale degree, [music and text](http://www.smt-v.org/teach/text.html)* 
 
 <!--DOI: [http://doi.org/10.30535/smtv.8.5](http://doi.org/10.30535/smtv.8.5)-->
 <p>&nbsp;</p>
@@ -110,7 +110,7 @@ Volume 8.6 (October 2022)
 
 *This video characterizes syncopation in hip-hop music as resulting from the interaction between accent patterns on three textural layers: the lyrics, the rapped delivery of these lyrics (flow), and the instrumental accompaniment (the beat). I unpack different accent types operating on these layers (word accents, performed accents, and metric accents), using examples from Travis Scott, Queen Latifah, Outkast, and others to illustrate their presence and the temporal relationships between them. I propose that hip-hop syncopation is neither a denial, displacement, nor contradiction of metric structure, but rather a product of it, wherein multiple rhythmic layers simultaneously act upon one another.*
 
-***Keywords**: flow, music theory, hip-hop, rap music, accent* 
+***Keywords**: flow, music theory, [hip-hop](http://www.smt-v.org/teach/hiphop.html, rap music, accent, [music and text](http://www.smt-v.org/teach/text.html)* 
 
 <!--DOI: [http://doi.org/10.30535/smtv.8.5](http://doi.org/10.30535/smtv.8.6)-->
 <p>&nbsp;</p>
