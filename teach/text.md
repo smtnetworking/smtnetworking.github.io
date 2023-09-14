@@ -1,5 +1,7 @@
 ## Text-Music Relationships
 
+- [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
+
 - [8.6: Ben Duinker, “When Hip-Hop Accents Collide (They Create Syncopation)”](https://www.smt-v.org/archives/volume8.html#when-hip-hop-accents-collide-they-create-syncopation) – discusses the distinctive accent patterns at different levels of a hip-hop track (lyrics, delivery, and accompaniment) and discusses potential meanings of syncopation in this repertoire; suitable for students at all levels learning about rhythm and meter, syncopation, metric dissonance, and text-music relationships
 
 - [8.5: Eron F.S., “Flat 2 as Hotness in Post-Millennial Pop”](https://www.smt-v.org/archives/volume8.html#flat-2-as-hotness-in-post-millennial-pop) – shows how scale degree flat 2 became a marker for hotness/sexiness in contemporary pop music; connects this phenomenon to exoticism and cultural appropriation; suitable for introducing students at all levels to topic theory
