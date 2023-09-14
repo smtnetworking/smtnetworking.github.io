@@ -1,5 +1,7 @@
 ## Cultural Exchange, Cultural Appropriation, and Exoticism
 
+- [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
+
 - [8.5: Eron F.S., “Flat 2 as Hotness in Post-Millennial Pop”](https://www.smt-v.org/archives/volume8.html#flat-2-as-hotness-in-post-millennial-pop) – shows how scale degree flat 2 became a marker for hotness/sexiness in contemporary pop music; connects this phenomenon to exoticism and cultural appropriation; suitable for introducing students at all levels to topic theory
 
 - [8.1: Noriko Manabe: “Abe Road: Kuwata Keisuke’s Beatles Parody”](https://www.smt-v.org/archives/volume8.html#abe-road-kuwata-keisukes-beatles-parody) – illustrates how Kuwata used the subtleties of word sounds to create a parody album critical of the Japanese government
