@@ -1,5 +1,7 @@
 ## Rhythm and Meter
 
+- [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
+  
 - [9.3: Rachel Short, “Interactions Between Music and Dance in Two Musical Theater Tap Breaks”](https://www.smt-v.org/archives/volume9.html#interactions-between-music-and-dance-in-two-musical-theater-tap-breaks) – explores scenarios where metrical patterns in music and dance conflict (metric dissonance); suitable for students at all levels, ranging from introducing musical meter and its elements to advanced study of metric dissonance
 
 - [9.1: Chelsea Oden, “‘We are dancing, We are flying’: The Feeling of Flight in Dance Scenes from Recent Popular Film”](https://www.smt-v.org/archives/volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film) – discusses visual, metrical, and timbral aspects of dance scenes in film; introduces the distinction between duple, triple, simple, and compound meters in an embodied context, suitable for music fundamentals and beginning students; introduces the “sound envelope” (ADSR) and connects timbre to embodied experiences, suitable for students at all levels developing a vocabulary for describing timbre
