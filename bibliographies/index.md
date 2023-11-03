@@ -8,7 +8,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Rachel Short: "Interactions Between Music and Dance in Two Musical Theatre Tap Breaks"](9_3_Short.pdf)
 - [Nathaniel Mitchell: "Variations on a Theme by K. K. Slider: Memory and Play in _Animal Crossing: New Horizons_"](9_4_Mitchell.pdf)
 - [Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping's _The Wind Sounds in the Sky_ (2002)"](9_5_Wu.pdf)
-- [9.6: Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?"](9_6_Orosz.pdf)
+- [Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?"](9_6_Orosz.pdf)
 
 ### Volume 8 (2022)
 - [Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.pdf)
