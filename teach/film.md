@@ -1,5 +1,7 @@
 ## Film and Television Music
 
+- [9.6: Jeremy Orosz, "Unbreakable Kimmy Schmidt: A New Model for Sound-Alike Tunes"](http://www.smt-v.org/archives/volume9.html#unbreakable-kimmy-schmidt-a-new-model-for-television-sound-alike-tunes) - explores how composers evoke familiar songs without breaching copyright law and considers the role of visual imagery, timbre, instrumentation, and melodic contour in producing sound-alike tunes
+
 - [9.1: Chelsea Oden, “‘We are dancing, We are flying’: The Feeling of Flight in Dance Scenes from Recent Popular Film”](https://www.smt-v.org/archives/volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film) – discusses visual, metrical, and timbral aspects of dance scenes in film; introduces the distinction between duple, triple, simple, and compound meters in an embodied context, suitable for music fundamentals and beginning students; introduces the “sound envelope” (ADSR) and connects timbre to embodied experiences, suitable for students at all levels developing a vocabulary for describing timbre
 
 - [8.4: Stanley V. Kleppinger, “Appropriating Copland’s Fanfare”](https://www.smt-v.org/archives/volume8.html#appropriating-coplands-fanfare) – argues that characteristic gestures from Copland’s Fanfare for the Common Man came to symbolize Americanness in popular culture
