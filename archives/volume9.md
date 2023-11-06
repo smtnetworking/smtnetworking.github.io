@@ -13,7 +13,7 @@ Volume 9.6 (November 2023)
 
 *This video considers recent changes in the production of television “sound-alike tunes,” or musical cues that evoke familiar songs with the explicit goal of circumventing copyright law. Traditionally, most television sound-alikes conformed to a uniform set of principles: composers typically matched the instrumentation and rhythm of the source material while changing pitches and melodic contour. Composer Jeff Richmond’s sound-alike tunes on the 2017 third season of* Unbreakable Kimmy Schmidt *differ substantially in approach. Instead of using similar musical patterns to ensure recognition of the source, the numbers pair the sound with images based upon the music videos. When such visual cues are included, a sound-alike version can evoke the familiar tune through style or instrumentation, even when they have little musical material in common.*
 
-***Keywords**: Television, copyright, Beyoncé, Sound-Alike Tunes, Netflix*
+***Keywords**: [television](http://www.smt-v.org/teach/film.html), copyright, Beyoncé, Sound-Alike Tunes, Netflix*
 
 <!--DOI: [http://doi.org/10.30535/smtv.9.6](http://doi.org/10.30535/smtv.9.6)-->
 <p>&nbsp;</p>
