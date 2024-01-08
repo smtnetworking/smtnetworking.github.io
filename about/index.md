@@ -16,16 +16,16 @@ If you have any questions about the process, please feel free to contact the [_S
 
 **Editor:** Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-**Associate Editor:** Jonathan De Souza (University of Western Ontario): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+**Associate Editor:** Volume 11: Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+Volume 10: Jonathan De Souza (University of Western Ontario): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
-- Christopher Brody, University of Louisville (2023)
-- Juan Chattah, University of Miami (2023)
-- Tomoko Deguchi, Winthrop University (2023)
+- Janet Bourne, UC Santa Barbara (2026)
+- Jonathan Gomez, University of Southern California (2026)
 - Chelsey Hamm, Christopher Newport University (2025)
-- Kristina Knowles, Arizona State University (2023)
+- Edward Klorman, McGill University (2026)
 - Victoria Malawey, Macalester College (2024)
-- Tahirih Motazedian, Vassar College (2024)
+- Tiffany Nicely, SUNY Fredonia (2026)
 - Joon Park, University of Arkansas (2024)
 - Alexander Rehding, Harvard University (2024)
 - René Rusch, University of Michigan (2025)
