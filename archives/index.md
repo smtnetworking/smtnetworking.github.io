@@ -1,5 +1,15 @@
 # SMT-V Archives
 
+### Volume 10 (2024)
+
+_Editor: Megan Long; Associate Editor: Jonathan De Souza_
+- 10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "Best Laid Plans . . . and Others: An 18th-Century Compositional Outline" (forthcoming)
+- 10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas" (forthcoming)
+- 10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition" (forthcoming)
+- 10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal" (forthcoming)
+- 10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music" (forthcoming)
+- 10.6: Liam Hynes-Tawa: "Japanese Tetrachordal Theory in Settings Old and New" (forthcoming)
+
 ### Volume 9 (2023)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
