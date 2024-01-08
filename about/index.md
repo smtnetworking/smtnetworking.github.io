@@ -17,6 +17,7 @@ If you have any questions about the process, please feel free to contact the [_S
 **Editor:** Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
 **Associate Editor:** Volume 11: Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+
 Volume 10: Jonathan De Souza (University of Western Ontario): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
