@@ -1,5 +1,7 @@
 ## Autographs and Archival Documents
 
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
+
 - [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
 
 - [7.1: Stephanie Probst, “Music Appreciation Through Animation: Percy Scholes’s ‘AudioGraphic’ Piano Rolls”](https://www.smt-v.org/archives/volume7.html#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls) – discusses piano rolls with music-analytical overlay; includes a visual analysis of Bach’s B-flat major fugue from WTC I; suitable for introducing students to different visual models for analyzing form and for introducing fugue
