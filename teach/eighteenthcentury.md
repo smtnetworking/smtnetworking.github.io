@@ -1,5 +1,7 @@
 ## 18th-century Western Art Music
 
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
+  
 - [7.2: Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](https://www.smt-v.org/archives/volume7.html#dance-as-music-in-george-balanchines-concerto-barocco) – addresses conflicting patterns in music and choreography and connects this metric dissonance to a melodic motive in Bach; suitable for students at all levels, especially study of metric dissonance
 
 - [7.1: Stephanie Probst, “Music Appreciation Through Animation: Percy Scholes’s ‘AudioGraphic’ Piano Rolls”](https://www.smt-v.org/archives/volume7.html#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls) – discusses piano rolls with music-analytical overlay; includes a visual analysis of Bach’s B-flat major fugue from WTC I; suitable for introducing students to different visual models for analyzing form and for introducing fugue
