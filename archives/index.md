@@ -3,7 +3,7 @@
 ### Volume 10 (2024)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
-- 10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "Best Laid Plans . . . and Others: An 18th-Century Compositional Outline" (forthcoming)
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline)
 - 10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas" (forthcoming)
 - 10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition" (forthcoming)
 - 10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal" (forthcoming)
