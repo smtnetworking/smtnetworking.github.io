@@ -2,6 +2,9 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 10 (2024)
+- [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Nguyen_Roderer.pdf)
+
 ### Volume 9 (2023)
 - [Chelsea Oden: "'We Are Dancing, We Are Flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](9_1_Oden.pdf)
 - [Christine Boone: "Algorithmic Remixes"](9_2_Boone.pdf)
