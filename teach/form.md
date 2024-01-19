@@ -1,5 +1,7 @@
 ## Musical Form and Phrase Structure
 
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
+  
 - [9.4: Nate Mitchell, “Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of Animal Crossing: New Horizons”](https://www.smt-v.org/archives/volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons) - treats the soundtrack of Animal Crossing: New Horizons as a modern example of theme and variations form; suitable for introducing theme and variations at all levels
 
 - [8.3: Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](https://www.smt-v.org/archives/volume8.html#the-feel-of-the-guitar-in-popular-music-performance) – shows how fretboard gestures help to demarcate musical form in some popular song; provides an analytical framework rooted in popular music performance practice rather than “traditional” music theory
