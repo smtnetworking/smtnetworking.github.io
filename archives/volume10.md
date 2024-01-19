@@ -1,7 +1,7 @@
 ## Volume 10 (2024)
 
-### Poundie paper
-Authors (University of x)
+### "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"
+L. Poundie Burstein (Hunter College, CUNY) with Quynh Nguyen (Hunter College, CUNY) and Jennifer Roderer (Hunter College, CUNY/The Metropolitan Opera)
 
 Volume 10.1 (January 2024)
 
