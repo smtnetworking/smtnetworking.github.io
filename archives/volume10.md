@@ -6,7 +6,7 @@ L. Poundie Burstein (Hunter College, CUNY) with Quynh Nguyen (Hunter College, CU
 Volume 10.1 (January 2024)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/777304794?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/723897921?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 *[Link to bibliography](http://www.smt-v.org/bibliographies/10_1_Burstein_Roderer_Nguyen.pdf)*
