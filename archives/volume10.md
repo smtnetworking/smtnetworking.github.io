@@ -13,7 +13,7 @@ Volume 10.1 (January 2024)
 
 *A standard strategy for music analysis is to reduce out the less essential elements of a composition so as to arrive at a type of musical outline of the work. Both the benefits and problems with such an approach are highlighted in one of the first analyses along these lines, an examination by Heinrich Christoph Koch (1787) of the aria “Ein Gebet” from Carl Heinrich Graun’s oratorio* Der Tod Jesu.
 
-***Keywords**: music analysis, history of music theory, Galant music, analytic model*
+***Keywords**: music analysis, [history of music theory](http://www.smt-v.org/teach/history.html), [Galant music](http://www.smt-v.org/teach/eighteenthcentury.html), analytic models, [musical form]((http://www.smt-v.org/teach/form.html), [autographs and archival documents](http://www.smt-v.org/teach/archives.html)*
 
 <!--DOI: [http://doi.org/10.30535/smtv.10.1](http://doi.org/10.30535/smtv.10.1)-->
 <p>&nbsp;</p>
