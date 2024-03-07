@@ -4,6 +4,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 
 ### Volume 10 (2024)
 - [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.pdf)
+- [Brad Osborn: "Dual Leading-Tone Loops in Recent Television Dramas"](10_2_Osborn.pdf)
 
 ### Volume 9 (2023)
 - [Chelsea Oden: "'We Are Dancing, We Are Flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](9_1_Oden.pdf)
