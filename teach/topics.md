@@ -1,5 +1,7 @@
 ## Musical Topics, Musical Meaning
 
+- [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](http://www.smt-v.org/archives/volume10.html#dual-leading-tone-loops-in-recent-television-dramas) - identifies a category of chord loops that create tonal ambiguity and connects this ambiguity to dramatic scenarios in recent television dramas; suitable for teaching chord loops and exploring the relationship between music and narrative/visual storytelling
+
 - [9.6: Jeremy Orosz, "Unbreakable Kimmy Schmidt: A New Model for Sound-Alike Tunes"](http://www.smt-v.org/archives/volume9.html#unbreakable-kimmy-schmidt-a-new-model-for-television-sound-alike-tunes) - explores how composers evoke familiar songs without breaching copyright law and considers the role of visual imagery, timbre, instrumentation, and melodic contour in producing sound-alike tunes
 
 - [8.5: Eron F.S., “Flat 2 as Hotness in Post-Millennial Pop”](https://www.smt-v.org/archives/volume8.html#flat-2-as-hotness-in-post-millennial-pop) – shows how scale degree flat 2 became a marker for hotness/sexiness in contemporary pop music; connects this phenomenon to exoticism and cultural appropriation; suitable for introducing students at all levels to topic theory
