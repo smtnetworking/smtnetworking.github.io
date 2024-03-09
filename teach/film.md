@@ -1,5 +1,7 @@
 ## Film and Television Music
 
+- [ 10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](http://www.smt-v.org/archives/volume10.html#dual-leading-tone-loops-in-recent-television-dramas) - identifies a category of chord loops that create tonal ambiguity and connects this ambiguity to dramatic scenarios in recent television dramas; suitable for teaching chord loops and exploring the relationship between music and narrative/visual storytelling
+
 - [9.6: Jeremy Orosz, "Unbreakable Kimmy Schmidt: A New Model for Sound-Alike Tunes"](http://www.smt-v.org/archives/volume9.html#unbreakable-kimmy-schmidt-a-new-model-for-television-sound-alike-tunes) - explores how composers evoke familiar songs without breaching copyright law and considers the role of visual imagery, timbre, instrumentation, and melodic contour in producing sound-alike tunes
 
 - [9.1: Chelsea Oden, “‘We are dancing, We are flying’: The Feeling of Flight in Dance Scenes from Recent Popular Film”](https://www.smt-v.org/archives/volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film) – discusses visual, metrical, and timbral aspects of dance scenes in film; introduces the distinction between duple, triple, simple, and compound meters in an embodied context, suitable for music fundamentals and beginning students; introduces the “sound envelope” (ADSR) and connects timbre to embodied experiences, suitable for students at all levels developing a vocabulary for describing timbre
