@@ -1,6 +1,6 @@
 ## 20th-century Western Art Music
 
-- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](volume10.html#directionality-in-twelve-tone-composition) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
+- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](https://www.smt-v.org/archives/volume10.html#directionality-in-twelve-tone-composition) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
 
 - [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
 
