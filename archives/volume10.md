@@ -15,7 +15,7 @@ Volume 10.4 (July 2024)
 
 *This video-essay studies performances by the bands Meshuggah and Animals as Leaders to gain purchase on this question. In Meshuggah’s “Perpetual Black Second,” the band members choreograph a struggle between freedom and control that is central to the heavy metal aesthetic. In the same band’s “Rational Gaze,” the vocalist’s headbanging pattern, which moves at a different speed than the pattern of the remaining band members, represents the element of power fundamental to the heavy metal value system. Finally, in Animals as Leaders’ “Wave of Babies,” the relation of an asymmetrical guitar riff to an isochronous stream of cymbal attacks encourages one performer to entrain to the onbeat pulses and another performer to the offbeat ones.*
 
-***Keywords**: Heavy metal, headbanging, entrainment, rhythm, meter, Meshuggah, Animals as Leaders*
+***Keywords**: [Heavy Metal](https://www.smt-v.org/teach/pop.html) [headbanging](https://www.smt-v.org/teach/embodiment.html), entrainment, [rhythm](https://www.smt-v.org/teach/rhythm.html), meter, Meshuggah, Animals as Leaders, [melody](https://www.smt-v.org/teach/melody.html)*
 
 <!--DOI: [http://doi.org/10.30535/smtv.10.3](http://doi.org/10.30535/smtv.10.3)-->
 <p>&nbsp;</p>
