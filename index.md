@@ -12,7 +12,7 @@ Guy Capuzzo (University of North Carolina at Greensboro)
 <center><iframe src="https://player.vimeo.com/video/841244670?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/10_3_Neidhofer.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/10_4_Capuzzo.pdf)*
 
 *Heavy metal fans and performers headbang for many reasons, one of which involves entrainment and musical meter. Our impulse to entrain to meter, and to other people’s periodic movements, is so strong that one rarely sees headbangers moving their bodies in different ways at the same time. So how might we make sense of such moments involving performers?*
 
