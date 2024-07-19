@@ -3,6 +3,7 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 10 (2024)
+- [Guy Capuzzo: Simultaneous Distinct Headbanging Patterns in Heavy Metal](10_4_Capuzzo.pdf)
 - [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.pdf)
 - [Brad Osborn: "Dual Leading-Tone Loops in Recent Television Dramas"](10_2_Osborn.pdf)
 - [Christoph Neidhöfer: "Directionality in Twelve-Tone Composition"](10_3_Neidhofer.pdf)
