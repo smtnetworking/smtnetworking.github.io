@@ -1,5 +1,7 @@
 ## Musical Topics, Musical Meaning
 
+- [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](https://www.smt-v.org/archives/volume10.html#whole-tone-collections-and-temporal-dislocation-in-film-music) - explores the use of the whole tone collection in contemporary film to convey that the characters or the audience are moving through time; ideal for introducing students to the sound and effects of the whole tone collection, and for engaging students in discussions about music, narrative, and musical meaning
+
 - [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](http://www.smt-v.org/archives/volume10.html#dual-leading-tone-loops-in-recent-television-dramas) - identifies a category of chord loops that create tonal ambiguity and connects this ambiguity to dramatic scenarios in recent television dramas; suitable for teaching chord loops and exploring the relationship between music and narrative/visual storytelling
 
 - [9.6: Jeremy Orosz, "Unbreakable Kimmy Schmidt: A New Model for Sound-Alike Tunes"](http://www.smt-v.org/archives/volume9.html#unbreakable-kimmy-schmidt-a-new-model-for-television-sound-alike-tunes) - explores how composers evoke familiar songs without breaching copyright law and considers the role of visual imagery, timbre, instrumentation, and melodic contour in producing sound-alike tunes
