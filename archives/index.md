@@ -7,7 +7,7 @@ _Editor: Megan Long; Associate Editor: Jonathan De Souza_
 - [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](volume10.html#dual-leading-tone-loops-in-recent-television-dramas)
 - [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](volume10.html#directionality-in-twelve-tone-composition)
 - [10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal"](volume10.html#simultaneous-distinct-headbanging-patterns-in-heavy-metal)
-- 10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music" (forthcoming)
+- [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](volume10.html#whole-tone-collections-and-temporal-dislocation-in-film-music)
 - 10.6: Liam Hynes-Tawa: "Japanese Tetrachordal Theory in Settings Old and New" (forthcoming)
 
 ### Volume 9 (2023)
