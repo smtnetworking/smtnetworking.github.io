@@ -1,5 +1,7 @@
 ## Musical Topics, Musical Meaning
 
+- [10.6: Liam Hynes-Tawa, "Japanese Tetrachordal Theory in Settings Old and New"](http://www.smt-v.org/archives/volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new) - Introduces a fourth-based framework for pitch analysis in contrast to more familiar octave-based ones, demonstrating both how it can be helpful for the Japanese folk music for which it was designed, and for other music in more modern genres; suitable for students learning about scales and modes, as a way of expanding how those categories can be conceptualized and used.
+  
 - [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](https://www.smt-v.org/archives/volume10.html#whole-tone-collections-and-temporal-dislocation-in-film-music) - explores the use of the whole tone collection in contemporary film to convey that the characters or the audience are moving through time; ideal for introducing students to the sound and effects of the whole tone collection, and for engaging students in discussions about music, narrative, and musical meaning
 
 - [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](http://www.smt-v.org/archives/volume10.html#dual-leading-tone-loops-in-recent-television-dramas) - identifies a category of chord loops that create tonal ambiguity and connects this ambiguity to dramatic scenarios in recent television dramas; suitable for teaching chord loops and exploring the relationship between music and narrative/visual storytelling
