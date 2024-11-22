@@ -4,7 +4,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 10.6 (September 2024)
+# Latest Issue: 10.6 (November 2024)
 
 ### "Japanese Tetrachordal Theory in Settings Old and New"
 Liam Hynes-Tawa (Harvard University)
@@ -12,7 +12,7 @@ Liam Hynes-Tawa (Harvard University)
 <center><iframe src="https://player.vimeo.com/video/920535655?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/10_5_Hynes-Tawa.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/10_6_Hynes-Tawa.pdf)*
 
 *Most systems of music theory in wide use today are built on the idea of the octave as the most fundamental frame for pitch—notes an octave apart are said to be equivalent, and scales fill up the range of an octave. But some music came out of cultural spheres that did not think in terms of octave-framing. This video introduces the theory of three-note “tetrachords” used by ethnomusicologist Koizumi Fumio for the analysis of Japanese folk music, and demonstrates how this framework can be useful not only for Japanese folk music, but also for more recent music that is, while heavily Western and octave-framed in some ways, also informed by Japanese folk music. I argue through this analysis that those aspects are difficult to elucidate without a theory like Koizumi’s that is made outside of the octave frame.*
 
