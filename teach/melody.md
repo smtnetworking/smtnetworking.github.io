@@ -1,5 +1,7 @@
 ## Melody and Motive
 
+- [10.6: Liam Hynes-Tawa, "Japanese Tetrachordal Theory in Settings Old and New"](http://www.smt-v.org/archives/volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new) - Introduces a fourth-based framework for pitch analysis in contrast to more familiar octave-based ones, demonstrating both how it can be helpful for the Japanese folk music for which it was designed, and for other music in more modern genres; suitable for students learning about scales and modes, as a way of expanding how those categories can be conceptualized and used.
+  
 - [9.4: Nate Mitchell, “Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of Animal Crossing: New Horizons”](https://www.smt-v.org/archives/volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons) – treats the soundtrack of Animal Crossing: New Horizons as a modern example of theme and variations form; suitable for introducing theme and variations at all levels
 
 - [7.4: Michael Buchler, “I Don’t Care if I Never Get Back: Optimism and Ascent in ‘Take Me Out to The Ball Game’”](https://www.smt-v.org/archives/volume7.html#i-dont-care-if-i-never-get-back-optimism-and-ascent-in-take-me-out-to-the-ball-game) – analyzes the melodic structure and phrase structure of the verse of “Take Me Out to the Ball Game” to contextualize the melodic ascent of the better-known chorus; suitable for students at all levels learning about cadences, phrase structure, and melodic norms, as well as for advanced students of linear analysis
