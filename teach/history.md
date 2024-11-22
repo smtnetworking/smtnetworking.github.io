@@ -2,6 +2,8 @@
 
 Videos that explore how music theoretical ideas have been developed and communicated in the past.
 
+- [10.6: Liam Hynes-Tawa, "Japanese Tetrachordal Theory in Settings Old and New"](http://www.smt-v.org/archives/volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new) - Introduces a fourth-based framework for pitch analysis in contrast to more familiar octave-based ones, demonstrating both how it can be helpful for the Japanese folk music for which it was designed, and for other music in more modern genres; suitable for students learning about scales and modes, as a way of expanding how those categories can be conceptualized and used.
+  
 - [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
   
 - [7.1: Stephanie Probst, “Music Appreciation Through Animation: Percy Scholes’s ‘AudioGraphic’ Piano Rolls”](https://www.smt-v.org/archives/volume7.html#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls) – discusses piano rolls with music-analytical overlay; includes a visual analysis of Bach’s B-flat major fugue from WTC I; suitable for introducing students to different visual models for analyzing form and for introducing fugue
