@@ -14,9 +14,9 @@ If you have any questions about the process, please feel free to contact the [_S
 
 ### Editorial Board
 
-**Editor:** Volume 11: J. Daniel Jenkins (University of South Carolina): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+**Editor:** Volume 12+: J. Daniel Jenkins (University of South Carolina): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-Volume 10: Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+Volume 11: Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
 **Associate Editor:** Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
