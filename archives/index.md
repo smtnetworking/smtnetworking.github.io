@@ -1,5 +1,15 @@
 # SMT-V Archives
 
+### Volume 11 (2025)
+
+_Editor: Megan Long; Associate Editor: Jonathan De Souza_
+- [11.1: Anabel Maler, "Title"](volume11.html#link)
+- 11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation" (forthcoming)
+- 11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl's Toy for Music Fundamentals" (forthcoming)
+- 11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section" (forthcoming)
+- 11.5: William O'Hara, "Between Art and Science: Amy Beach's 'Hermit Thrush' Pieces and Early-Twentieth-Century Birdsong Transcription" (forthcoming) 
+- 11.6: Gilad Rabinovitch, "Reconstructing a Fantasy: Music Theory Meets Historical Improvisation" (forthcoming)
+  
 ### Volume 10 (2024)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
