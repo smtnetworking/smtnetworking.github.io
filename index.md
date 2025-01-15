@@ -9,7 +9,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 ### "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s 'River Song'"
 Anabel Maler (University of British Columbia)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/918358466?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/918358466?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
 
 *[Link to bibliography](http://www.smt-v.org/bibliographies/11_1_Maler.pdf)*
