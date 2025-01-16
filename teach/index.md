@@ -11,6 +11,7 @@ SMT-V video-articles are designed to be accessible to students from the high sch
 - [Cultural Exchange, Cultural Appropriation, and Exoticism](culture.html)
 - [History of Music Theory](history.html)
 - [Melody and Motive](melody.html)
+- [Music and Disability](disability.html)
 - [Music and Embodiment, Instrumental Affordances](embodiment.html)
 - [Music Perception and Cognition](perception.html)
 - [Musical Form and Phrase Structure](form.html)
