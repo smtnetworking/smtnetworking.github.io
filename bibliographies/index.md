@@ -2,6 +2,9 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 11 (2025)
+- [Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](11_1_Maler.pdf)
+
 ### Volume 10 (2024)
 - [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.pdf)
 - [Brad Osborn: "Dual Leading-Tone Loops in Recent Television Dramas"](10_2_Osborn.pdf)
