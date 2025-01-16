@@ -1,6 +1,6 @@
 ## Music and Dance
 
-- [11.1: Anabel Maler, ""]() - explores how musical parameters like vocal quality, melody, and rhythm can emerge in a visual-kinesthetic medium, without sound
+- [11.1: Anabel Maler, ""Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song""](https://github.com/smtnetworking/smtnetworking.github.io/blob/master/archives/volume11.html#music-as-movement-in-signed-song-analyzing-rosa-lee-timms-river-song) - explores how musical parameters like vocal quality, melody, and rhythm can emerge in a visual-kinesthetic medium, without sound
 
 - [9.3: Rachel Short, “Interactions Between Music and Dance in Two Musical Theater Tap Breaks”](https://www.smt-v.org/archives/volume9.html#interactions-between-music-and-dance-in-two-musical-theater-tap-breaks) – explores scenarios where metrical patterns in music and dance conflict (metric dissonance); suitable for students at all levels, ranging from introducing musical meter and its elements to advanced study of metric dissonance
 
