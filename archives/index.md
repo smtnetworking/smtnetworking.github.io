@@ -2,7 +2,7 @@
 
 ### Volume 11 (2025)
 
-_Editor: Megan Long; Associate Editor: Jonathan De Souza_
+_Editor: Megan Long; Associate Editor: Tahirih Motazedian_
 - [11.1: Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](volume11.html#music-as-movement-in-signed-song-analyzing-rosa-lee-timms-river-song)
 - 11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation" (forthcoming)
 - 11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl's Toy for Music Fundamentals" (forthcoming)
