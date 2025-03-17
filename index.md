@@ -7,7 +7,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 # Latest Issue: 11.2 (March 2025)
 
 ### “‘Why Can’t I Just Do It Straightaway?’ Bluey, Joff Bush, and Accumulation”
-Derek Myler (East Carolina University School of Music)
+Derek J. Myler (East Carolina University School of Music)
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/1050853347?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
