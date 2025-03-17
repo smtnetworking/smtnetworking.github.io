@@ -1,5 +1,7 @@
 ## Melody and Motive
 
+- [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation) - explores how Classical themes are remixed in the context of a beloved children's cartoon, considering elements like motivic construction, phrase structure, and form; suitable for students engaging with form, motive, music and narrative, and film and television music
+  
 - [10.6: Liam Hynes-Tawa, "Japanese Tetrachordal Theory in Settings Old and New"](http://www.smt-v.org/archives/volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new) - Introduces a fourth-based framework for pitch analysis in contrast to more familiar octave-based ones, demonstrating both how it can be helpful for the Japanese folk music for which it was designed, and for other music in more modern genres; suitable for students learning about scales and modes, as a way of expanding how those categories can be conceptualized and used.
   
 - [9.4: Nate Mitchell, “Variations on a Theme by K.K. Slider: Variation Sets and the Hourly Music of Animal Crossing: New Horizons”](https://www.smt-v.org/archives/volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons) – treats the soundtrack of Animal Crossing: New Horizons as a modern example of theme and variations form; suitable for introducing theme and variations at all levels
