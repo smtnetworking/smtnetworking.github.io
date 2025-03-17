@@ -4,6 +4,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 
 ### Volume 11 (2025)
 - [Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](11_1_Maler.pdf)
+- [Derek Myler, "'Why Can't I Do it Straightaway?' Bluey, Joff Bush, and Accumulation"](11_2_Myler.pdf)
 
 ### Volume 10 (2024)
 - [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.pdf)
