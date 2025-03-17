@@ -1,7 +1,7 @@
 ## Volume 11 (2025)
 
 ### “‘Why Can’t I Just Do It Straightaway?’ Bluey, Joff Bush, and Accumulation”
-Derek Myler (East Carolina University School of Music)
+Derek J. Myler (East Carolina University School of Music)
 Volume 11.2 (March 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
