@@ -1,5 +1,7 @@
 ## Film and Television Music
 
+- [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation) - explores how Classical themes are remixed in the context of a beloved children's cartoon, considering elements like motivic construction, phrase structure, and form; suitable for students engaging with form, motive, music and narrative, and film and television music
+
 - [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](https://www.smt-v.org/archives/volume10.html#whole-tone-collections-and-temporal-dislocation-in-film-music) - explores the use of the whole tone collection in contemporary film to convey that the characters or the audience are moving through time; ideal for introducing students to the sound and effects of the whole tone collection, and for engaging students in discussions about music, narrative, and musical meaning
   
 - [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](http://www.smt-v.org/archives/volume10.html#dual-leading-tone-loops-in-recent-television-dramas) - identifies a category of chord loops that create tonal ambiguity and connects this ambiguity to dramatic scenarios in recent television dramas; suitable for teaching chord loops and exploring the relationship between music and narrative/visual storytelling
