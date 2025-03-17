@@ -1,5 +1,7 @@
 ## Musical Form and Phrase Structure
 
+- [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation) - explores how Classical themes are remixed in the context of a beloved children's cartoon, considering elements like motivic construction, phrase structure, and form; suitable for students engaging with form, motive, music and narrative, and film and television music
+  
 - [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](https://www.smt-v.org/archives/volume10.htmlvolume10.html#directionality-in-twelve-tone-composition) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
 
 - [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](https://www.smt-v.org/archives/volume10.htmlvolume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
