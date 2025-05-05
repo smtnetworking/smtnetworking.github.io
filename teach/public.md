@@ -2,6 +2,8 @@
 
 Videos that explore the myriad ways that musicians have made music fundamentals, music theory, and music analysis, legible to the public.
 
+- [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
+
 - [9.2: Christine Boone, “Algorithmic Remixes”](https://www.smt-v.org/archives/volume9.html#algorithmic-remixes) – treats YouTube song remixes as a kind of analysis
 
 - [7.1: Stephanie Probst, “Music Appreciation Through Animation: Percy Scholes’s ‘AudioGraphic’ Piano Rolls”](https://www.smt-v.org/archives/volume7.html#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls) – discusses piano rolls with music-analytical overlay; includes a visual analysis of Bach’s B-flat major fugue from WTC I; suitable for introducing students to different visual models for analyzing form and for introducing fugue
