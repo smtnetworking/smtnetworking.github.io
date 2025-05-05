@@ -1,5 +1,7 @@
 ## 18th-century Western Art Music
 
+- [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
+
 - [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans-and-others-an-18th-century-compositional-outline) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
   
 - [7.2: Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](https://www.smt-v.org/archives/volume7.html#dance-as-music-in-george-balanchines-concerto-barocco) – addresses conflicting patterns in music and choreography and connects this metric dissonance to a melodic motive in Bach; suitable for students at all levels, especially study of metric dissonance
