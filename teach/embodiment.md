@@ -1,5 +1,7 @@
 ## Music and Embodiment, Instrumental Affordances
 
+- [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
+
 - [8.3: Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](https://www.smt-v.org/archives/volume8.html#the-feel-of-the-guitar-in-popular-music-performance) – shows how fretboard gestures help to demarcate musical form; provides an analytical framework rooted in popular music performance practice rather than “traditional” music theory
 
 - [6.1: Cecilia Oinas, “Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works”](https://www.smt-v.org/archives/volume6.html#sensitivity-intimacy-and-bodily-interaction-in-kurt%C3%A1gs-four-handed-piano-works) – explores the intimacy of hands-crossing gestures in four-hand piano music
