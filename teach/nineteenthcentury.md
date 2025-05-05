@@ -1,5 +1,7 @@
 ## 19th-century Western Art Music
 
+- [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
+
 - [8.2: Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’: Discerning Inverted Canonic Potential”](https://www.smt-v.org/archives/volume8.html#clara-schumanns-op-16-no-3-and-fifth-above-third-below-discerning-inverted-canonic-potential) – shows how to identify whether a subject can be treated in an inverted canon
 
 - [5.4: Scott Murphy, “‘Fifth Above, Third Below’: Discerning Canonic Potential”](https://www.smt-v.org/archives/volume5.html#fifth-above-third-below-discerning-canonic-potential) – shows how to identify whether a subject can be treated in canon; considers examples from Clara Schumann; suitable for students of counterpoint at all levels
