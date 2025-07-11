@@ -4,21 +4,21 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 11.3 (May 2025)
+# Latest Issue: 11.4 (July 2025)
 
-### Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals
-Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat (University of Toronto)
+### Improvising the Changes in a Miles Davis Rhythm Section
+Ben Geyer (Mount Holyoke College)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/985057377?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
+<center><iframe src="https://player.vimeo.com/video/1039031010?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/11_3_Tan_etal.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/11_4_Geyer.pdf)*
 
-*In the early- to mid-twentieth century, many music educators were concerned with creating engaging and effective approaches to teaching music fundamentals. This video-article brings to life a pedagogical device from 1946 that was invented by the music theorist Victor Zuckerkandl but never produced. We demonstrate how this “small toy” can be used to learn major and minor keys, as Zuckerkandl intended, as well as intervals, modulations, and more. We also connect this device to manipulatives in mathematics education.*
+*Individual musicians can make different chord choices in each pass through a tune’s form. This variability sometimes results in harmonic disagreement between musicians even as they play together. Harmony is a primary lens for understanding improvisation, but what kind of lens fluctuates in its prescription? To navigate this tension, this video turns to the jazz greats, exploring how pianist Red Garland and bassist Paul Chambers strike a balance between harmonic consistency and variation on Miles Davis’s recording of “Bye Bye Blackbird.” I treat their combined 14 choruses as a corpus—a selection of related examples analyzed for patterns—and find that they approach distinct “zones” within the tune in one of three ways: as “fixed,” “what-variable,” or “when-variable.” This framework motivates a modified lead sheet that captures not only the tune’s moments of regularity, but also its spaces for harmonic improvisation.*
 
-***Keywords**: Music fundamentals, music theory pedagogy, tonality, Victor Zuckerkandl, key signatures, manipulatives*
+***Keywords**: jazz, improvisation, interaction, chord, harmony, Miles Davis*
 
-<!--DOI: [http://doi.org/10.30535/smtv.10.6](http://doi.org/10.30535/smtv.11.3)-->
+<!--DOI: [http://doi.org/10.30535/smtv.10.6](http://doi.org/10.30535/smtv.11.4)-->
 <p>&nbsp;</p>
 <hr>
 
