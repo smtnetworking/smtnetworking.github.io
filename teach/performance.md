@@ -1,5 +1,7 @@
 ## Performance and Analysis
 
+- [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
+
 - [11.1: Anabel Maler, ""Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song""](https://github.com/smtnetworking/smtnetworking.github.io/blob/master/archives/volume11.html#music-as-movement-in-signed-song-analyzing-rosa-lee-timms-river-song) - explores how musical parameters like vocal quality, melody, and rhythm can emerge in a visual-kinesthetic medium, without sound
   
 - [8.6: Ben Duinker, “When Hip-Hop Accents Collide (They Create Syncopation)”](https://www.smt-v.org/archives/volume8.html#when-hip-hop-accents-collide-they-create-syncopation) – discusses the distinctive accent patterns at different levels of a hip-hop track (lyrics, delivery, and accompaniment) and discusses potential meanings of syncopation in this repertoire; suitable for students at all levels learning about rhythm and meter, syncopation, metric dissonance, and text-music relationships
