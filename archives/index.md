@@ -6,7 +6,7 @@ _Editor: Megan Long; Associate Editor: Tahirih Motazedian_
 - [11.1: Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](volume11.html#music-as-movement-in-signed-song-analyzing-rosa-lee-timms-river-song)
 - [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation)
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl's Toy for Music Fundamentals"](volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals)
-- 11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section" (forthcoming)
+- [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section)
 - 11.5: William O'Hara, "Between Art and Science: Amy Beach's 'Hermit Thrush' Pieces and Early-Twentieth-Century Birdsong Transcription" (forthcoming) 
 - 11.6: Gilad Rabinovitch, "Reconstructing a Fantasy: Music Theory Meets Historical Improvisation" (forthcoming)
   
