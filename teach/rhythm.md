@@ -1,5 +1,7 @@
 ## Rhythm and Meter
 
+- [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
+
 - [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
   
 - [9.3: Rachel Short, “Interactions Between Music and Dance in Two Musical Theater Tap Breaks”](https://www.smt-v.org/archives/volume9.html#interactions-between-music-and-dance-in-two-musical-theater-tap-breaks) – explores scenarios where metrical patterns in music and dance conflict (metric dissonance); suitable for students at all levels, ranging from introducing musical meter and its elements to advanced study of metric dissonance
