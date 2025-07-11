@@ -1,5 +1,7 @@
 ## Musical Form and Phrase Structure
 
+- [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
+
 - [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation) - explores how Classical themes are remixed in the context of a beloved children's cartoon, considering elements like motivic construction, phrase structure, and form; suitable for students engaging with form, motive, music and narrative, and film and television music
   
 - [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](https://www.smt-v.org/archives/volume10.htmlvolume10.html#directionality-in-twelve-tone-composition) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
