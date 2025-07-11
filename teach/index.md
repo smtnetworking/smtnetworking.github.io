@@ -10,6 +10,7 @@ SMT-V video-articles are designed to be accessible to students from the high sch
 - [Counterpoint](counterpoint.html)
 - [Cultural Exchange, Cultural Appropriation, and Exoticism](culture.html)
 - [History of Music Theory](history.html)
+- [Improvisation](improvisation.html)
 - [Melody and Motive](melody.html)
 - [Music and Disability](disability.html)
 - [Music and Embodiment, Instrumental Affordances](embodiment.html)
