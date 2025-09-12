@@ -1,7 +1,7 @@
 ## Volume 11 (2025)
 
 ### Between Art and Science: Amy Beach’s Hermit Thrush Pieces and Early-Twentieth-Century Birdsong Transcription
-William O'Hara (Gettysburg College)
+William O'Hara (Gettysburg College)</br>
 Volume 11.5 (September 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -24,7 +24,7 @@ Volume 11.5 (September 2025)
 
 
 ### Improvising the Changes in a Miles Davis Rhythm Section
-Ben Geyer (Mount Holyoke College)
+Ben Geyer (Mount Holyoke College)</br>
 Volume 11.4 (July 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -42,7 +42,7 @@ Volume 11.4 (July 2025)
 <hr>
 
 ### Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals
-Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat (University of Toronto)
+Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat (University of Toronto)</br>
 Volume 11.3 (May 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -60,7 +60,7 @@ Volume 11.3 (May 2025)
 <hr>
 
 ### “‘Why Can’t I Just Do It Straightaway?’ Bluey, Joff Bush, and Accumulation”
-Derek J. Myler (East Carolina University School of Music)
+Derek J. Myler (East Carolina University School of Music)</br>
 Volume 11.2 (March 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -78,7 +78,7 @@ Volume 11.2 (March 2025)
 <hr>
 
 ### "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s 'River Song'"
-Anabel Maler (University of British Columbia)
+Anabel Maler (University of British Columbia)</br>
 Volume 11.1 (January 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
