@@ -4,21 +4,21 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 11.4 (July 2025)
+# Latest Issue: 11.5 (September 2025)
 
-### Improvising the Changes in a Miles Davis Rhythm Section
-Ben Geyer (Mount Holyoke College)
+### Between Art and Science: Amy Beach’s Hermit Thrush Pieces and Early-Twentieth-Century Birdsong Transcription
+William O'Hara (Gettysburg College)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/1039031010?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
+<center><iframe src="https://player.vimeo.com/video/1092163367?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/11_4_Geyer.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/11_5_OHara.pdf)*
 
-*Individual musicians can make different chord choices in each pass through a tune’s form. This variability sometimes results in harmonic disagreement between musicians even as they play together. Harmony is a primary lens for understanding improvisation, but what kind of lens fluctuates in its prescription? To navigate this tension, this video turns to the jazz greats, exploring how pianist Red Garland and bassist Paul Chambers strike a balance between harmonic consistency and variation on Miles Davis’s recording of “Bye Bye Blackbird.” I treat their combined 14 choruses as a corpus—a selection of related examples analyzed for patterns—and find that they approach distinct “zones” within the tune in one of three ways: as “fixed,” “what-variable,” or “when-variable.” This framework motivates a modified lead sheet that captures not only the tune’s moments of regularity, but also its spaces for harmonic improvisation.*
+*Throughout her long career, American composer Amy Beach (1867–1944) engaged with birdsong in numerous ways. This video examines her use of transcribed birdcalls in the piano piece “Hermit Thrush at Eve” (1922). These transcriptions arose at a time when ornithologists were exploring the merits of traditional notation versus numerous graphical systems, leading to debates which not only anticipated the rise of graphic notation in the twentieth century, but contested the very nature of birdsong by means of its connection (or lack thereof) to human musical constructs like harmony and tonality. By analyzing the piece in the context of early-twentieth-century naturalism, I argue that Beach’s “Hermit Thrush at Eve” constitutes a compelling speculative exploration of how avian music intersects with human, and shows how artistic and scientific inquiry can inform one another.*
 
-***Keywords**: jazz, improvisation, interaction, chord, harmony, Miles Davis*
+***Keywords**: Amy Beach, birdsong, ecomusicology, piano music, twentieth-century music, transcription, harmony*
 
-<!--DOI: [http://doi.org/10.30535/smtv.10.6](http://doi.org/10.30535/smtv.11.4)-->
+<!--DOI: [http://doi.org/10.30535/smtv.11.5](http://doi.org/10.30535/smtv.11.5)-->
 <p>&nbsp;</p>
 <hr>
 
