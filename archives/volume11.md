@@ -1,7 +1,7 @@
 ## Volume 11 (2025)
 
 ### Between Art and Science: Amy Beach’s Hermit Thrush Pieces and Early-Twentieth-Century Birdsong Transcription
-William O'Hara (Gettysburg College)</br>
+William O'Hara (Gettysburg College)<br/>
 Volume 11.5 (September 2025)
 
 <div class="intrinsic-container intrinsic-container-16x9">
