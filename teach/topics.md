@@ -1,5 +1,7 @@
 ## Musical Topics, Musical Meaning
 
+- [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](volume11.html#between-art-and-science-amy-beachs-hermit-thrush-pieces-and-early-twentieth-century-birdsong-transcription) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
+
 - [11.1: Anabel Maler, ""Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song""](https://github.com/smtnetworking/smtnetworking.github.io/blob/master/archives/volume11.html#music-as-movement-in-signed-song-analyzing-rosa-lee-timms-river-song) - explores how musical parameters like vocal quality, melody, and rhythm can emerge in a visual-kinesthetic medium, without sound
   
 - [10.6: Liam Hynes-Tawa, "Japanese Tetrachordal Theory in Settings Old and New"](http://www.smt-v.org/archives/volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new) - Introduces a fourth-based framework for pitch analysis in contrast to more familiar octave-based ones, demonstrating both how it can be helpful for the Japanese folk music for which it was designed, and for other music in more modern genres; suitable for students learning about scales and modes, as a way of expanding how those categories can be conceptualized and used.
