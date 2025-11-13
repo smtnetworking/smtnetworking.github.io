@@ -8,7 +8,7 @@ _Editor: Megan Long; Associate Editor: Tahirih Motazedian_
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl's Toy for Music Fundamentals"](volume11.html#tessellated-tonics-zuckerkandls-toy-for-music-fundamentals)
 - [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section)
 - [11.5: William O'Hara, "Between Art and Science: Amy Beach's 'Hermit Thrush' Pieces and Early-Twentieth-Century Birdsong Transcription"](volume11.html#between-art-and-science-amy-beachs-hermit-thrush-pieces-and-early-twentieth-century-birdsong-transcription) 
-- 11.6: Gilad Rabinovitch, "Reconstructing a Fantasy: Music Theory Meets Historical Improvisation" (forthcoming)
+- [11.6: Gilad Rabinovitch, "Reconstructing a Fantasy: Music Theory Meets Historical Improvisation"](volume11.html#reconstructing-a-nineteenth-century-fantasy-between-model-composition-and-reimagining-improvisation)
   
 ### Volume 10 (2024)
 
