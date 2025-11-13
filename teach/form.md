@@ -1,5 +1,7 @@
 ## Musical Form and Phrase Structure
 
+- [11.6, Gilad Rabinovitch, “Reconstructing a Nineteenth-Century Fantasy](https://www.smt-v.org/archives/volume11.htmlvolume11.html#reconstructing-a-nineteenth-century-fantasy-between-model-composition-and-reimagining-improvisation): Between Model Composition and Reimagining Improvisation”: this video reports on the author’s creative reconstruction of a fantasy based on pedagogical materials in Carl Czerny’s Systematic Introduction to Improvisation Op. 200 (1983 [1829]); suitable for piano repertoire, form and analysis, music history, and performance practice courses.
+
 - [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](volume11.html#improvising-the-changes-in-a-miles-davis-rhythm-section) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
 
 - [11.2: Derek J. Myler, "'Why Can't I Just Do It Straightaway?' Bluey, Joff Bush, and Accumulation"](volume11.html#why-cant-i-just-do-it-straightaway-bluey-joff-bush-and-accumulation) - explores how Classical themes are remixed in the context of a beloved children's cartoon, considering elements like motivic construction, phrase structure, and form; suitable for students engaging with form, motive, music and narrative, and film and television music
