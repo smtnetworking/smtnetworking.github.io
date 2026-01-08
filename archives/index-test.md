@@ -13,22 +13,22 @@ _Editor: Megan Long; Associate Editor: Tahirih Motazedian_
 ### Volume 10 (2024)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
-- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](volume10.html#the-best-laid-plans----and-others-an-18th-century-compositional-outline)
-- [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](volume10.html#dual-leading-tone-loops-in-recent-television-dramas)
-- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](volume10.html#directionality-in-twelve-tone-composition)
-- [10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal"](volume10.html#simultaneous-distinct-headbanging-patterns-in-heavy-metal)
-- [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](volume10.html#whole-tone-collections-and-temporal-dislocation-in-film-music)
-- [10.6: Liam Hynes-Tawa: "Japanese Tetrachordal Theory in Settings Old and New"](volume10.html#japanese-tetrachordal-theory-in-settings-old-and-new)
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Nguyen_Roderer.md)
+- [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](10_2_Osborn.md)
+- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](10_3_Neidhoger.md)
+- [10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal"](10_4_Capuzzo.md)
+- [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](10_5_Cairns.md)
+- [10.6: Liam Hynes-Tawa: "Japanese Tetrachordal Theory in Settings Old and New"](10_6_Hynes-Tawa.md)
 
 ### Volume 9 (2023)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
-- [9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](volume9.html#we-are-dancing-we-are-flying-the-feeling-of-flight-in-dance-scenes-from-recent-popular-film)
-- [9.2: Christine Boone, "Algorithmic Remixes"](volume9.html#algorithmic-remixes)
-- [9.3: Rachel Short, "Interactions Between Music and Dance in Two Musical Theater Tap Breaks"](volume9.html#interactions-between-music-and-dance-in-two-musical-theatre-tap-breaks)
-- [9.4: Nathaniel Mitchell, "Variations on a Theme by K. K. Slider: Memory and Play in _Animal Crossing: New Horizons_"](volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons)
-- [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping's _The Wind Sounds in the Sky_ (2002)"](volume9.html#poetry-and-musical-organization-in-jia-guopings-the-wind-sounds-in-the-sky-2002)
-- [9.6: Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?"](volume9.html#unbreakable-kimmy-schmidt-a-new-model-for-television-sound-alike-tunes)
+- [9.1: Chelsea Oden, "'We are dancing, We are flying': The Feeling of Flight in Dance Scenes from Recent Popular Film"](9_1_Oden.md)
+- [9.2: Christine Boone, "Algorithmic Remixes"](9_2_Boone.md)
+- [9.3: Rachel Short, "Interactions Between Music and Dance in Two Musical Theater Tap Breaks"](9_3_Short.md)
+- [9.4: Nathaniel Mitchell, "Variations on a Theme by K. K. Slider: Memory and Play in _Animal Crossing: New Horizons_"](9_4_Mitchell.md)
+- [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping's _The Wind Sounds in the Sky_ (2002)"](9_5_Wu.md)
+- [9.6: Jeremy Orosz, "_The Unbreakable Kimmy Schmidt:_ A New Model for Television Sound-Alikes?"](9_6_Orosz.md)
 
 ### Volume 8 (2022)
 
@@ -36,12 +36,12 @@ _8.1–8.2: Editor: L. Poundie Burstein; Associate Editor: Seth Monahan_
 
 _8.3–8.6: Editor: Megan Long; Associate Editor: Jonathan De Souza_
  
-- [8.1: Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](volume8.md#abe-road-kuwata-keisukes-beatles-parody)
-- [8.2: Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential”](volume8.md#clara-schumanns-op-16-no-3-and-fifth-above-third-below-discerning-inverted-canonic-potential)
-- [8.3:  Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](volume8.md#the-feel-of-the-guitar-in-popular-music-performance)
-- [8.4: Stanley V. Kleppinger, “Appropriating Copland's _Fanfare_”](volume8.md#appropriating-coplands-fanfare)
-- [8.5: Eron F.S., "Flat 2 as Hotness in Post-Millennial Pop"](volume8.md#flat-2-as-hotness-in-post-millennial-pop)
-- [8.6: Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)"](volume8.md#when-hip-hop-accents-collide-they-create-syncopation)
+- [8.1: Noriko Manabe: “Abe Road: Kuwata Keisuke's Beatles Parody”](8_1_Manabe.md)
+- [8.2: Scott Murphy: “Clara Schumann’s op. 16 no. 3 and ‘Fifth Above, Third Below’:  Discerning Inverted Canonic Potential”](8_2_Murphy.md)
+- [8.3:  Nicholas Shea, “The Feel of the Guitar in Popular Music Performance”](8_3_Shea.md)
+- [8.4: Stanley V. Kleppinger, “Appropriating Copland's _Fanfare_”](8_4_Kleppinger.md)
+- [8.5: Eron F.S., "Flat 2 as Hotness in Post-Millennial Pop"](8_5_FS.md)
+- [8.6: Ben Duinker, "When Hip-Hop Accents Collide (They Create Syncopation)"](8_6_Duinker.md)
 
 ### Volume 7 (2021)
 _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
