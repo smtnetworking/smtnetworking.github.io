@@ -7,7 +7,8 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Derek Myler, "'Why Can't I Do it Straightaway?' Bluey, Joff Bush, and Accumulation"](11_2_Myler.pdf)
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl's Toy for Music Fundamentals"](11_3_Tan_etal.pdf)
 - [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](11_4_Geyer.pdf)
-- [11.5: William O'Hara, "Between Art and Science: Amy Beach's 'Hermit Thrush' Pieces and Early-Twentieth-Century Birdsong Transcription"](11_5_OHara.pdf) 
+- [11.5: William O'Hara, "Between Art and Science: Amy Beach's 'Hermit Thrush' Pieces and Early-Twentieth-Century Birdsong Transcription"](11_5_OHara.pdf)
+- [11.6: Gilad Rabinovitch, "Reconstructing a Fantasy: Music Theory Meets Historical Improvisation”](11_6_Rabinovitch.html)
 
 ### Volume 10 (2024)
 - [L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer: "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.pdf)
