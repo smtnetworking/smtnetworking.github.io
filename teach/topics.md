@@ -12,7 +12,7 @@
 
 - [9.6: Jeremy Orosz, "Unbreakable Kimmy Schmidt: A New Model for Sound-Alike Tunes"](http://www.smt-v.org/archives/9_6_Orosz.html) - explores how composers evoke familiar songs without breaching copyright law and considers the role of visual imagery, timbre, instrumentation, and melodic contour in producing sound-alike tunes
 
-- [8.5: Eron F.S., “Flat 2 as Hotness in Post-Millennial Pop”](https://www.smt-v.org/archives/8_2_FS.html) – shows how scale degree flat 2 became a marker for hotness/sexiness in contemporary pop music; connects this phenomenon to exoticism and cultural appropriation; suitable for introducing students at all levels to topic theory
+- [8.5: Eron F.S., “Flat 2 as Hotness in Post-Millennial Pop”](https://www.smt-v.org/archives/8_5_FS.html) – shows how scale degree flat 2 became a marker for hotness/sexiness in contemporary pop music; connects this phenomenon to exoticism and cultural appropriation; suitable for introducing students at all levels to topic theory
 
 - [8.4: Stanley V. Kleppinger, “Appropriating Copland’s Fanfare”](https://www.smt-v.org/archives/8_4_Kleppinger.html) – argues that characteristic gestures from Copland’s Fanfare for the Common Man came to symbolize Americanness in popular culture; suitable for introducing students at all levels to topic theory
 
