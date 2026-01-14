@@ -1,6 +1,6 @@
 ## 20th-century Western Art Music
 
-- [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_OHara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
+- [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_Ohara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
 
 - [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](https://www.smt-v.org/archives/10_3_Neidhofer.html) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
 
