@@ -1,6 +1,6 @@
 ## Musical Topics, Musical Meaning
 
-- [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_OHara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
+- [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_Ohara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
 
 - [11.1: Anabel Maler, ""Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song""](https://www.smt-v.org/archives/11_1_Maler.html) - explores how musical parameters like vocal quality, melody, and rhythm can emerge in a visual-kinesthetic medium, without sound
   
