@@ -3,7 +3,7 @@
 ## “Oops!... I Did It Again": The Complement Chorus in Britney Spears, The Backstreet Boys, and *NSYNC
 Megan Lavengood (George Mason University)
 
-Latest Issue: 7.6 (October 2021)
+Issue 7.6 (October 2021)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/559017321?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
@@ -16,6 +16,8 @@ Latest Issue: 7.6 (October 2021)
 *Keywords: pop music, post-millennial pop music, Max Martin, boy bands, musical form*
 
 DOI: [http://doi.org/10.30535/smtv.7.6](http://doi.org/10.30535/smtv.7.6)
+<p>&nbsp;</p>
+<hr>
 
 
 ## Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies
