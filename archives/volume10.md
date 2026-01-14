@@ -58,6 +58,7 @@ Volume 10.4 (July 2024)
 <!--DOI: [http://doi.org/10.30535/smtv.10.3](http://doi.org/10.30535/smtv.10.3)-->
 <p>&nbsp;</p>
 <hr>
+
 ### "Directionality in Twelve-Tone Composition"
 Christoph Neidhöfer (McGill University)
 
@@ -93,7 +94,8 @@ Volume 10.2 (March 2024)
 
 ***Keywords**: [film music](http://www.smt-v.org/teach/film.html), popular music, tonality, chord loops, [musical meaning](http://www.smt-v.org/teach/topics.html)*
 
-
+<p>&nbsp;</p>
+<hr>
 
 ### "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"
 L. Poundie Burstein (Hunter College, CUNY) with Quynh Nguyen (Hunter College, CUNY) and Jennifer Roderer (Hunter College, CUNY/The Metropolitan Opera)
