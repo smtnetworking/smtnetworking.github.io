@@ -1,5 +1,10 @@
 # SMT-V Archives
 
+### Volume 12 (2026)
+
+_Editor: Danny Jenkins; Associate Editor: Tahirih Motazedian_
+- [12.1: Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.md)
+
 ### Volume 11 (2025)
 
 _Editor: Megan Long; Associate Editor: Tahirih Motazedian_
