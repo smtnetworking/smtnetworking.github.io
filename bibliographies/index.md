@@ -2,6 +2,9 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 12 (2026)
+- [Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.pdf)
+
 ### Volume 11 (2025)
 - [Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](11_1_Maler.pdf)
 - [Derek Myler, "'Why Can't I Do it Straightaway?' Bluey, Joff Bush, and Accumulation"](11_2_Myler.pdf)
