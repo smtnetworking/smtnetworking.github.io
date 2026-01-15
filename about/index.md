@@ -14,23 +14,22 @@ If you have any questions about the process, please feel free to contact the [_S
 
 ### Editorial Board
 
-**Editor:** Volume 12+: J. Daniel Jenkins (University of South Carolina): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+**Editor:** J. Daniel Jenkins (University of South Carolina): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-Volume 11: Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-**Associate Editor:** Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+**Associate Editor:** Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](mailto:SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
 - Sean Atkinson, Texas Christian University (2027)
 - Nicole Biamonte, McGill University (2027)
 - Janet Bourne, UC Santa Barbara (2026)
+- David Geary, Wake Forest University (2027)
 - Jonathan Gomez, University of Southern California (2026)
-- Chelsey Hamm, Christopher Newport University (2025)
 - Edward Klorman, McGill University (2026)
-- Olivia Lucas, Louisiana State University (2027)
+- Nathan Beary Loughstein (2028)
 - Tiffany Nicely, SUNY Fredonia (2026)
-- René Rusch, University of Michigan (2025)
-- Rebecca Simpson-Litke, University of Manitoba (2025)
+- Andrew Schartmann, New England Conservatory (2028)
+- Eron Smith, Oberlin College and Conservatory (2028)
 - Anna Yu Wang, Princeton University (2027)
 
 **Web Editor:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
