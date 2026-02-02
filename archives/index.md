@@ -2,7 +2,7 @@
 
 ### Volume 12 (2026)
 
-_Editor: Danny Jenkins; Associate Editor: Tahirih Motazedian_
+_Editor: J. Daniel Jenkins; Associate Editor: Tahirih Motazedian_
 - [12.1: Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.md)
 
 ### Volume 11 (2025)
