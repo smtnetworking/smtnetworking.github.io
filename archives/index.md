@@ -18,9 +18,9 @@ _Editor: Megan Long; Associate Editor: Tahirih Motazedian_
 ### Volume 10 (2024)
 
 _Editor: Megan Long; Associate Editor: Jonathan De Souza_
-- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Nguyen_Roderer.md)
+- [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](10_1_Burstein_Roderer_Nguyen.md)
 - [10.2: Brad Osborn, "Dual Leading-Tone Loops in Recent Television Dramas"](10_2_Osborn.md)
-- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](10_3_Neidhoger.md)
+- [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](10_3_Neidhofer.md)
 - [10.4: Guy Capuzzo, "Simultaneous Distinct Headbanging Patterns in Heavy Metal"](10_4_Capuzzo.md)
 - [10.5: Zachary Cairns, "Whole-Tone Collections and Temporal Dislocation in Film Music"](10_5_Cairns.md)
 - [10.6: Liam Hynes-Tawa: "Japanese Tetrachordal Theory in Settings Old and New"](10_6_Hynes-Tawa.md)
@@ -90,7 +90,7 @@ _Editor: Scott Murphy, Associate Editors Anna Gawboy and Bryn Hughes_
 
 ### Volume 2 (2016)
 _Editor: Scott Murphy, Associate Editors Anna Gawboy and Bryn Hughes_
-- [2.1: Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](2_1_Reale.md)
+- [2.1: Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](2_1_Krebs.md)
 - [2.2: Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 1)](2_2_Reale.md)
 - [2.3: Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 2)](2_3_Reale.md)
 
