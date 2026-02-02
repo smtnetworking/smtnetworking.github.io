@@ -1,5 +1,7 @@
 ## 20th-century Western Art Music
 
+- [12.1: Joon Park, "Calligraphic Listening: Making Sense of Hosokawa's Vertical Time"](http://www.smt-v.org/archives/12_1_Park.html) - This video introduces an interpretative strategy for Toshio Hosokawa’s composition Vertical Time Study I by treating composite sounds as sonic brushstrokes and the silence between them as a blank space where these strokes’ preparatory gestures take place; suitable for beginning music students and non‑music‑major students, as a way to introduce attentive listening habits, or for post‑tonal courses to complement pitch‑class set analysis.
+  
 - [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_Ohara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
 
 - [10.3: Christoph Neidhöfer, "Directionality in Twelve-Tone Composition"](https://www.smt-v.org/archives/10_3_Neidhofer.html) - explores how one 12-tone composer, Julius Schloss, strategically arranged his serial materials to invoke tonal procedures like cadences and phrase structures; suitable for post-tonal music theory courses as well as classes addressing phrase structure, tonal direction, and cadence
