@@ -13,8 +13,8 @@ Joon Park (University of Illinois Chicago)
 
 *This interpretive strategy regards the composite sound as the primary unit of meaning (rather than pitches or instruments) and describes the whole sound in correspondence with different attributes of a brushstroke by foregrounding various parameters. For example, parameters such as a brush’s light or heavy pressure on the paper, the stroke’s smooth or jagged shape, and the ink’s thinness or thickness can be used to describe musical sound. The video quotes other East Asian composers, such as Toru Takemitsu and Wen-Chung Chou, to argue that the calligraphic listening strategy, such as the flow, merging of ink and water, and the way it gives meaning to blank space, reflects broader East Asian aesthetic concepts.*
 
-***Keywords**: East Asian Music, Calligraphy, Toshio Hosokawa, Vertical Time Study, Chou Wen-chung, Tōru
-Takemitsu, twentieth-century music*
+***Keywords**: [East Asian Music](http://www.smt-v.org/teach/global.html), Calligraphy, Toshio Hosokawa, Vertical Time Study, Chou Wen-chung, Tōru
+Takemitsu, [twentieth-century music](http://www.smt-v.org/teach/twentiethcentury.html)*
 
 <!--DOI: [http://doi.org/10.30535/smtv.12.1](http://doi.org/10.30535/smtv.12.1)-->
 <p>&nbsp;</p>
