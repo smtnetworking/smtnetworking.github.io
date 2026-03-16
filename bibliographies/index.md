@@ -3,6 +3,7 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 12 (2026)
+- [Andrew Goldman, "Optimize This! Why Do We Care if an AI Can Write Songs?"](12_2_Goldman.pdf)
 - [Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.pdf)
 
 ### Volume 11 (2025)
