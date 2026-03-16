@@ -4,6 +4,7 @@
 
 _Editor: J. Daniel Jenkins; Associate Editor: Tahirih Motazedian_
 - [12.1: Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.md)
+- [12.2: Andrew Goldman, “Optimize This! Why Do We Care If an AI Can Write Songs?”](12_2_Goldman.md)
 
 ### Volume 11 (2025)
 
