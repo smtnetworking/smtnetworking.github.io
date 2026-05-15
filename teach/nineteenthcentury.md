@@ -1,5 +1,7 @@
 ## 19th-century Western Art Music
 
+- [12.3: Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](https://www.smt-v.org/archives/12_3_Stoecker.html) – examines Arnold Schoenberg’s concept of the sentence in Fundamentals of Musical Composition through draft materials that preserve self-analyses omitted from the 1967 posthumous publication; suitable for students learning about musical form and the sentence phrase structure.
+  
 - [11.6, Gilad Rabinovitch, “Reconstructing a Nineteenth-Century Fantasy](https://www.smt-v.org/archives/11_6_Rabinovitch.html): Between Model Composition and Reimagining Improvisation”: this video reports on the author’s creative reconstruction of a fantasy based on pedagogical materials in Carl Czerny’s Systematic Introduction to Improvisation Op. 200 (1983 [1829]); suitable for piano repertoire, form and analysis, music history, and performance practice courses.
 
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/11_3_Tan_etalk.html) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
