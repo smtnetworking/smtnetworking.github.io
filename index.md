@@ -6,7 +6,7 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 # Latest Issue: 12.3 (May 2026)
 
-### "TITLE"
+### "Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)"
 Philip Stoecker (Hofstra University)
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/1189406163?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
