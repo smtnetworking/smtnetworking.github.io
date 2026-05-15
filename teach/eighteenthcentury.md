@@ -1,5 +1,7 @@
 ## 18th-century Western Art Music
 
+- [12.3: Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](https://www.smt-v.org/archives/12_3_Stoecker.html) – examines Arnold Schoenberg’s concept of the sentence in Fundamentals of Musical Composition through draft materials that preserve self-analyses omitted from the 1967 posthumous publication; suitable for students learning about musical form and the sentence phrase structure.
+  
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/11_3_Tan_etal.html) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
 
 - [10.1: L. Poundie Burstein with Quynh Nguyen and Jennifer Roderer, "The Best Laid Plans . . . and Others: An 18th-Century Compositional Outline"](https://www.smt-v.org/archives/10_1_Burstein_Roderer_Nguyen.html) - explores how an 18th-century music theorist attempted to distinguish essential material from elaboration in a contemporary composition; would be suitable for the study of phrase structure and small forms, for considering melodic construction, and for exploring the history of music analysis
