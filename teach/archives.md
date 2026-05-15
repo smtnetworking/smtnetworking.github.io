@@ -1,5 +1,7 @@
 ## Autographs and Archival Documents
 
+- [12.3: Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](https://www.smt-v.org/archives/12_3_Stoecker.html) – examines Arnold Schoenberg’s concept of the sentence in Fundamentals of Musical Composition through draft materials that preserve self-analyses omitted from the 1967 posthumous publication; suitable for students learning about musical form and the sentence phrase structure.
+
 - [11.5 William O’Hara, “Between Art and Science: Amy Beach’s ‘Hermit Thrush’ Pieces and Early-Twentieth-Century Birdsong Transcription”](https://www.smt-v.org/archives/11_5_Ohara.html) – analyzes Amy Beach’s use of birdsong transcriptions in her piano work “Hermit Thrush at Eve,” demonstrating Beach’s nuanced understanding of harmony and her engagement with early-twentieth-century debates about transcription, graphic notation, and the relationship between birdsong and human music-making.
 
 - [11.3: Daphne Tan, Alexis Millares Thomson, Tegan Ridge, and Emma Soldaat, "Tessellated Tonics: Zuckerkandl’s Toy for Music Fundamentals"](https://www.smt-v.org/archives/11_3_Tan_etal.html) - brings to life a mid-20th-century device for learning music fundamentals that was invented by the music theorist Victor Zuckerkandl; connects this pedagogical device to manipulatives in mathematics education; suitable for students at all levels studying keys and key signatures, intervals, and modulation, as well as for those with an interest in music-theoretical abstraction.
