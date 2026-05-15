@@ -1,5 +1,7 @@
 ## Musical Form and Phrase Structure
 
+- [12.3: Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](https://www.smt-v.org/archives/12_3_Stoecker.html) – examines Arnold Schoenberg’s concept of the sentence in Fundamentals of Musical Composition through draft materials that preserve self-analyses omitted from the 1967 posthumous publication; suitable for students learning about musical form and the sentence phrase structure.
+  
 - [11.6, Gilad Rabinovitch, “Reconstructing a Nineteenth-Century Fantasy](https://www.smt-v.org/archives/11_6_Rabinovitch.html): Between Model Composition and Reimagining Improvisation”: this video reports on the author’s creative reconstruction of a fantasy based on pedagogical materials in Carl Czerny’s Systematic Introduction to Improvisation Op. 200 (1983 [1829]); suitable for piano repertoire, form and analysis, music history, and performance practice courses.
 
 - [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](https://www.smt-v.org/archives/11_4_Geyer.html) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
