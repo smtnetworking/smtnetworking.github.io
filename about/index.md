@@ -24,7 +24,7 @@ If you have any questions about the process, please feel free to contact the [_S
 - Nicole Biamonte, McGill University (2027)
 - Janet Bourne, UC Santa Barbara (2026)
 - David Geary, Wake Forest University (2027)
-- Jonathan Gomez, University of Southern California (2026)
+- Jonathan Gomez, University of Michigan (2026)
 - Edward Klorman, McGill University (2026)
 - Nathan Beary Loughstein (2028)
 - Tiffany Nicely, SUNY Fredonia (2026)
