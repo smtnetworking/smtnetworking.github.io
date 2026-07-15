@@ -4,19 +4,19 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 12.3 (May 2026)
+# Latest Issue: 12.4 (July 2026)
 
-### "Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)"
-Philip Stoecker (Hofstra University)
+### "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"
+Calder Hannan (Indiana University) and Timothy JS (Independent Scholar)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/1189406163?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
+<center><iframe src="https://player.vimeo.com/video/1200686599?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
 
 *[Link to bibliography](http://www.smt-v.org/bibliographies/12_3_Stoecker.pdf)*
 
-*This video reexamines Arnold Schoenberg’s concept of the sentence in* Fundamentals of Musical Composition *through draft materials that preserve self-analyses omitted from the 1967 posthumous publication. Although Schoenberg defines the sentence as a normative eight-measure design modeled on the music of Beethoven, Haydn, and Mozart, the drafts reveal his engagement with uneven and irregular phrase structures. Analyses of his* Verklärte Nacht, *the String Quartet No. 1, op. 10,* Gurre-Lieder, *and an unpublished analytical sketch for his String Quartet No. 4, op. 37 demonstrate how Schoenberg composed irregular, uneven phrases, including a 5½-measure sentence in the opening theme of his Fourth String Quartet. Reconstructing this passage as normalized six- and four-measure versions shows how his twelve-tone writing remained conceptually aligned with Classical models, especially that of Mozart.*
+*Music in which two or more patterns occur at the same time has long fascinated theorists. In this video essay, we introduce the term polycardinality to formalize this space. In particular, we focus on situations in math metal and math rock in which patterns—of rhythm, pitch, text, articulation, and other musical dimensions—are mapped onto each other rather than being simply superimposed.*
 
-***Keywords**: Arnold Schoenberg; Fundamentals of Musical Composition; String Quartet No. 4, op. 37; sentence phrase; musical form; uneven phrase lengths*
+***Keywords**: isorhythm, metal, rhythm and meter*
 
 <!--DOI: [http://doi.org/10.30535/smtv.12.3](http://doi.org/10.30535/smtv.12.3)-->
 <p>&nbsp;</p>
