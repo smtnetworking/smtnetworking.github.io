@@ -3,6 +3,7 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 12 (2026)
+- [Calder Hannan and Timothy JS, "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"](12_4_Hannan_JS.pdf)
 - [Andrew Goldman, "Optimize This! Why Do We Care if an AI Can Write Songs?"](12_2_Goldman.pdf)
 - [Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.pdf)
 
