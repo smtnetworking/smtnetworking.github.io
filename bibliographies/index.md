@@ -3,10 +3,11 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 12 (2026)
-- [Calder Hannan and Timothy JS, "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"](12_4_Hannan_JS.pdf)
-- [Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](12_3_Stoecker.pdf)
-- [Andrew Goldman, "Optimize This! Why Do We Care if an AI Can Write Songs?"](12_2_Goldman.pdf)
 - [Joon Park, "Calligraphic Listening: Making Sense of Hosokawa’s Vertical Time"](12_1_Park.pdf)
+- [Andrew Goldman, "Optimize This! Why Do We Care if an AI Can Write Songs?"](12_2_Goldman.pdf)
+- [Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](12_3_Stoecker.pdf)
+- [Calder Hannan and Timothy JS, "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"](12_4_Hannan_JS.pdf)
+- [Scott Hanenberg, "Tori Amos's Stretched Compound Grooves"](12_5_Hanenberg.pdf)
 
 ### Volume 11 (2025)
 - [Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](11_1_Maler.pdf)
