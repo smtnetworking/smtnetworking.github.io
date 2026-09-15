@@ -16,7 +16,7 @@ Scott Hanenberg (Wilfrid Laurier University)
 
 *Tori Amos has her own way of manipulating musical time. In this video essay, I show how Amos often stretches the meter of her songs by strategically adding subdivisions. My focus is on grooves that I hear in 6/8 time (compound grooves), with stretched measures of 7/8, 8/8, or further expansions. The demanding metric coordination in Amos’s stretched grooves is surprising in the radio-friendly genres that she is known for—one way among many that Amos plays with the line between pop and progressive.*
 
-***Keywords**: Tori Amos, groove, compound meter, irregular meter, popular music*
+***Keywords**: Tori Amos, [groove](https://www.smt-v.org/teach/rhythm.html), compound meter, irregular meter, [popular music](https://www.smt-v.org/teach/pop.html)*
 
 <!--DOI: [http://doi.org/10.30535/smtv.12.5](http://doi.org/10.30535/smtv.12.5)-->
 <p>&nbsp;</p>
