@@ -1,5 +1,7 @@
 ## Rhythm and Meter
 
+- [12.5: Scott Hanenberg, “Tori Amos’s Stretched Compound Grooves”](https://www.smt-v.org/archives/12_5_Hanenberg.html) – analyzes the metric irregularities of Amos’s songs with compound-meter grooves, foregrounding meter stretching at the eighth-note level; suitable for students learning about rhythmic/metric/groove experimentation and/or music supporting narrative songwriting.
+
 - [11.4: Ben Geyer, "Improvising the Changes in a Miles Davis Rhythm Section"](https://www.smt-v.org/archives/11_4_Geyer.html) - explores the harmonic variety of improvised chords in “Bye, Bye Blackbird.” Provides a foil to classical conceptions of consonance/dissonance and harmonic function; can frame the study of jazz harmony or explore deeper possibilities in improvisation
 
 - [9.5: Yi-Cheng Daniel Wu, "Poetry and Musical Organization in JIA Guoping’s The Wind Sounds in the Sky (2002)"](http://www.smt-v.org/archives/9_5_Wu.html) - shows how JIA Guoping derives his rhythmic structure from aspects of Chinese poetry; suitable for post-tonal music theory courses, discussions of text-music relations, and classes exploring cultural exchange
