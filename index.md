@@ -4,21 +4,21 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the [Society for Musi
 
 <hr>
 
-# Latest Issue: 12.4 (July 2026)
+# Latest Issue: 12.5 (September 2026)
 
-### "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"
-Calder Hannan (Indiana University) and Timothy JS (Independent Scholar)
+### "Tori Amos’s Stretched Compound Grooves"
+Scott Hanenberg (Wilfrid Laurier University)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/1200686599?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
+<center><iframe src="https://player.vimeo.com/video/1222318642?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center> 
 </div><p>&nbsp;</p>
 
-*[Link to bibliography](http://www.smt-v.org/bibliographies/12_4_Hannan_JS.pdf)*
+*[Link to bibliography](http://www.smt-v.org/bibliographies/12_5_Hanenberg.pdf)*
 
-*Music in which two or more patterns occur at the same time has long fascinated theorists. In this video essay, we introduce the term polycardinality to formalize this space. In particular, we focus on situations in math metal and math rock in which patterns—of rhythm, pitch, text, articulation, and other musical dimensions—are mapped onto each other rather than being simply superimposed.*
+*Tori Amos has her own way of manipulating musical time. In this video essay, I show how Amos often stretches the meter of her songs by strategically adding subdivisions. My focus is on grooves that I hear in 6/8 time (compound grooves), with stretched measures of 7/8, 8/8, or further expansions. The demanding metric coordination in Amos’s stretched grooves is surprising in the radio-friendly genres that she is known for—one way among many that Amos plays with the line between pop and progressive.*
 
-***Keywords**: isorhythm, metal, rhythm and meter*
+***Keywords**: Tori Amos, groove, compound meter, irregular meter, popular music*
 
-<!--DOI: [http://doi.org/10.30535/smtv.12.3](http://doi.org/10.30535/smtv.12.3)-->
+<!--DOI: [http://doi.org/10.30535/smtv.12.5](http://doi.org/10.30535/smtv.12.5)-->
 <p>&nbsp;</p>
 <hr>
 
