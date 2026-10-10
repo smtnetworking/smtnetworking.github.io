@@ -22,10 +22,11 @@ Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiari
 ### Video Production
 
 *General shooting and editing tips for video*
-- [Vimeo Video School](http://vimeo.com/videoschool/101)
+- [EditLogic CapCut tutorials](https://editlogic.io/)
+  - Free CapCut video editing tutorials (cache management, export settings, troubleshooting)
 
 *General Tips for Screencasting*
-- [Screencasting best practices](http://www.screencast.com/help/tutorial.aspx?id=403)
+- [Best export settings for CapCut PC](https://editlogic.io/best-export-settings-for-capcut-pc/)
 
 *Video Production Software*
 
@@ -34,9 +35,7 @@ Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiari
   - $15 per year
   - web-based or desktop app
 
-- [Screenr](https://www.screenr.com/)
-  - Free, but no post-production editing capability
-  - web-based
+- [Where are CapCut drafts stored on Windows](https://editlogic.io/where-are-capcut-drafts-stored-windows/)
 
 - [CamStudio](http://www.camstudio.org/)
   - Free, capable of editing
