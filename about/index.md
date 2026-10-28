@@ -16,16 +16,19 @@ If you have any questions about the process, please feel free to contact the [_S
 
 **Editor:** J. Daniel Jenkins (University of South Carolina): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-
-**Associate Editor:** Tahirih Motazedian (Vassar College): [SMT-V-associate-editor@societymusictheory.org](mailto:SMT-V-associate-editor@societymusictheory.org).
+**Associate Editors:** Current: Tahirih Motazedian (Vassar College); Incoming: Richard Desinord (Georgetown University): [SMT-V-associate-editor@societymusictheory.org](mailto:SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
 - Sean Atkinson, Texas Christian University (2027)
 - Nicole Biamonte, McGill University (2027)
+- Christine Boone, St. Olaf College (2029)
 - Janet Bourne, UC Santa Barbara (2026)
+- Juan Chattah, University of Miami (2029)
 - David Geary, Wake Forest University (2027)
 - Jonathan Gomez, University of Michigan (2026)
+- Catrina Kim, University of Massachusetts - Amherst (2029)
 - Edward Klorman, McGill University (2026)
+- Gui Lee, James Madison University (2029)
 - Nathan Beary Loughstein (2028)
 - Tiffany Nicely, SUNY Fredonia (2026)
 - Andrew Schartmann, New England Conservatory (2028)
