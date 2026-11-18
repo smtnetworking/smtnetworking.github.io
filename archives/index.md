@@ -8,6 +8,7 @@ _Editor: J. Daniel Jenkins; Associate Editor: Tahirih Motazedian_
 - [12.3: Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](12_3_Stoecker.md)
 - [12.4: Calder Hannan and Timothy JS, "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"](12_4_Hannan_JS.md)
 - [12.5: Scott Hanenberg, "Tori Amos's Stretched Compound Grooves"](12_5_Hanenberg.md)
+- [12.6: Megan Kaes Long, "Singing Ut-Re-Mi with Palestrina: How Solmization Shapes Counterpoint"](12_6_Long.md)
 
 ### Volume 11 (2025)
 
