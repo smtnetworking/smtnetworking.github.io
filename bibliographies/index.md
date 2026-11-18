@@ -8,6 +8,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 - [Philip Stoecker, “Schoenberg on Schoenberg: An Unpublished Analysis of his String Quartet No. 4, op. 37 (1936)”](12_3_Stoecker.pdf)
 - [Calder Hannan and Timothy JS, "Polycardinalities and Emergent Complexity in Math Rock and Math Metal"](12_4_Hannan_JS.pdf)
 - [Scott Hanenberg, "Tori Amos's Stretched Compound Grooves"](12_5_Hanenberg.pdf)
+- [Megan Kaes Long, "Singing Ut-Re-Mi with Palestrina: How Solmization Shapes Counterpoint"](12_6_Long.pdf)
 
 ### Volume 11 (2025)
 - [Anabel Maler, "Music as Movement in Signed Song: Analyzing Rosa Lee Timm’s ‘River Song"](11_1_Maler.pdf)
